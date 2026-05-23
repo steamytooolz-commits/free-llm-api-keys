@@ -12,4 +12,4 @@ labels: expired-key
 ```
 
 **时间：** 2026-XX-XX HH:MM (UTC+8)
-**模型：** 例如 gpt-5.4
+**模型：** 例如 gpt-5.5

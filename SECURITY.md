@@ -10,7 +10,13 @@ All API keys in this repository (prefixed with `sk-`) are **tokens issued by our
 
 ## Reporting a Vulnerability
 
-If you discover a security vulnerability, please **DO NOT** open a public issue. Email us instead and we will respond within 48 hours.
+If you discover a security vulnerability, please **DO NOT** open a public issue.
+
+- **Preferred**: open a private [GitHub Security Advisory](https://github.com/alistaitsacle/free-llm-api-keys/security/advisories/new). Only project maintainers can see it.
+- We aim to acknowledge within 72 hours and triage within 7 days.
+- Please include reproduction steps, impacted endpoints, and the request ID if you have one.
+
+We will credit reporters in the advisory once a fix is released, unless you prefer to stay anonymous.
 
 ## Responsible Use
 

@@ -2,7 +2,7 @@
 from openai import OpenAI
 
 client = OpenAI(base_url="https://aiapiv2.pekpik.com/v1", api_key="YOUR_KEY_HERE")
-models = ["gpt-5.4", "claude-sonnet-4-6", "deepseek-chat", "mistral-medium-latest"]
+models = ["gpt-5.5", "claude-sonnet-4-6", "deepseek-chat", "mistral-medium-latest"]
 question = "Explain quantum computing in one paragraph."
 
 for model in models:

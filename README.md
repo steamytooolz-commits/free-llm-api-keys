@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.jpg" alt="Free LLM API Keys — GPT-5.4, Claude, DeepSeek, Gemini, Grok, 90+ Models" width="100%">
+<img src="./assets/banner.jpg" alt="Free LLM API Keys — GPT-5.5, Claude, DeepSeek, Gemini, Grok, 90+ Models" width="100%">
 
 <br>
 
@@ -152,7 +152,7 @@ curl https://aiapiv2.pekpik.com/v1/chat/completions \
   -H "Content-Type: application/json" \
   -H "Authorization: Bearer PASTE_KEY_HERE" \
   -d '{
-    "model": "gpt-5.4",
+    "model": "gpt-5.5",
     "messages": [{"role": "user", "content": "Hello!"}]
   }'
 ```
@@ -168,7 +168,7 @@ client = OpenAI(
 )
 
 response = client.chat.completions.create(
-    model="gpt-5.4",
+    model="gpt-5.5",
     messages=[{"role": "user", "content": "Hello!"}]
 )
 print(response.choices[0].message.content)
@@ -185,7 +185,7 @@ const client = new OpenAI({
 });
 
 const response = await client.chat.completions.create({
-  model: 'gpt-5.4',
+  model: 'gpt-5.5',
   messages: [{ role: 'user', content: 'Hello!' }],
 });
 console.log(response.choices[0].message.content);
@@ -247,7 +247,7 @@ print(f"Vector dimension: {len(response.data[0].embedding)}")
 
 | Provider | Models | Notes |
 |----------|--------|-------|
-| **OpenAI** | gpt-5.4, gpt-5.4-mini, gpt-5.4-nano, gpt-5.4-pro, gpt-4 | Latest GPT lineup |
+| **OpenAI** | gpt-5.5, gpt-5.5-mini, gpt-5.5-nano, gpt-5.5-pro, gpt-4 | Latest GPT lineup |
 | **Anthropic** | claude-opus-4-6, claude-sonnet-4-6, claude-haiku-4-5 | Latest Claude |
 | **DeepSeek** | deepseek-chat (V3), deepseek-reasoner (R1) | Chat + reasoning |
 | **Google** | gemini-3.1-flash-lite, gemini-3.1-flash-image | Gemini 3.1 |
@@ -277,7 +277,7 @@ API tokens (`sk-xxx`) issued by our own platform. They are compatible with the O
 | Free quota | ✅ $20-$100 per key | ❌ None |
 | Multi-model access | ✅ One key, all models | ❌ One provider only |
 | Works in China | ✅ Direct access | ⚠️ VPN needed |
-| Latest models | ✅ GPT-5.4, Claude 4.6, Grok 4.20, Gemini 3.1 | ✅ OpenAI only |
+| Latest models | ✅ GPT-5.5, Claude 4.6, Grok 4.20, Gemini 3.1 | ✅ OpenAI only |
 </details>
 
 <details>
@@ -319,19 +319,19 @@ Available globally. Direct access from China — no VPN needed.
 ### 2026-04-26
 - 🆕 Added 0 keys (), cleaned 1 expired
 ### 2026-04-29
-- 🆕 Added 3 keys (smart-chat, gpt-5.4, claude-sonnet-4-6), cleaned 1 expired
+- 🆕 Added 3 keys (smart-chat, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
 
 ### 2026-04-28
 - 🆕 Added 0 keys (no new keys), cleaned 3 expired
-- 🆕 Added 4 keys (smart-chat, gpt-5.4, claude-sonnet-4-6), cleaned 1 expired
+- 🆕 Added 4 keys (smart-chat, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
 - 🆕 Added 0 keys (no new keys), cleaned 2 expired
-- 🆕 Added 8 keys (deepseek-chat, smart-chat, gemini-2.5-flash, gpt-5.4, claude-sonnet-4-6), cleaned 1 expired
+- 🆕 Added 8 keys (deepseek-chat, smart-chat, gemini-2.5-flash, gpt-5.5, claude-sonnet-4-6), cleaned 1 expired
 - 🆕 Added 0 keys (no new keys), cleaned 1 expired
 - 🆕 Added 0 keys (no new keys), cleaned 220 expired
 
 ### 2026-04-25
-- 🆕 Added 6 keys (gpt-5.4, claude-sonnet-4-6, smart-chat), cleaned 0 expired
-- 🆕 Added 22 keys (claude-opus-4-7, deepseek-chat, gemini-2.5-flash, gemini-2.5-pro, gpt-5.4, kimi-k2.5 +2 more), cleaned 1 expired
+- 🆕 Added 6 keys (gpt-5.5, claude-sonnet-4-6, smart-chat), cleaned 0 expired
+- 🆕 Added 22 keys (claude-opus-4-7, deepseek-chat, gemini-2.5-flash, gemini-2.5-pro, gpt-5.5, kimi-k2.5 +2 more), cleaned 1 expired
 - 🆕 Added 0 keys (), cleaned 8 expired
 - 🆕 Added 28 keys (claude-opus-4-7, claude-sonnet-4-6, deepseek-chat, deepseek-reasoner, embed-english-v3.0, gemini-2.5-flash +6 more), cleaned 1 expired
 - 🆕 Added 0 keys (), cleaned 4 expired
@@ -355,7 +355,7 @@ Available globally. Direct access from China — no VPN needed.
 - 🆕 Added 0 keys (), cleaned 9 expired
 - 🆕 Added 0 keys (), cleaned 3 expired
 - 🆕 Added 0 keys (), cleaned 21 expired
-- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.4 +5 more), cleaned 1 expired
+- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
 - 🆕 Added 0 keys (), cleaned 1 expired
 
 ### 2026-04-23
@@ -365,17 +365,17 @@ Available globally. Direct access from China — no VPN needed.
 - 🆕 Added 0 keys (), cleaned 21 expired
 - 🆕 Added 0 keys (), cleaned 4 expired
 - 🆕 Added 0 keys (), cleaned 24 expired
-- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.4 +5 more), cleaned 1 expired
+- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
 - 🆕 Added 0 keys (), cleaned 1 expired
 
 ### 2026-04-22
 - 🆕 Added 0 keys (), cleaned 5 expired
 - 🆕 Added 0 keys (), cleaned 3 expired
 - 🆕 Added 0 keys (), cleaned 20 expired
-- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.4 +5 more), cleaned 1 expired
+- 🆕 Added 19 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +5 more), cleaned 1 expired
 - 🆕 Added 0 keys (), cleaned 4 expired
 - 🆕 Added 0 keys (), cleaned 2 expired
-- 🆕 Added 10 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.4 +4 more), cleaned 1 expired
+- 🆕 Added 10 keys (embed-english-v3.0, embed-multilingual-v3.0, gemini-2.5-flash, gemini-2.5-flash-lite, gemini-2.5-pro, gpt-5.5 +4 more), cleaned 1 expired
 - 🆕 Added 0 keys (), cleaned 22 expired
 - 🆕 Added 26 keys (GLM-4.7, codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat +19 more), cleaned 1 expired
 - 🆕 Added 0 keys (), cleaned 1 expired
@@ -642,7 +642,7 @@ Available globally. Direct access from China — no VPN needed.
 - 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
 - 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
 - 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 19 expired
-- 🆕 Added 12 keys (codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gpt-5.4 +5 more), cleaned 1 expired
+- 🆕 Added 12 keys (codestral-latest, dall-e-3, deepseek-chat, devstral-latest, flagship-chat, gpt-5.5 +5 more), cleaned 1 expired
 - 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
 
 ### 2026-03-24
@@ -651,12 +651,12 @@ Available globally. Direct access from China — no VPN needed.
 - 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
 - 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
 - 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 7 keys (dall-e-3, deepseek-chat, gpt-5.4, gpt-5.4-mini, smart-chat, tts-1-hd), cleaned 2 expired
+- 🆕 Added 7 keys (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd), cleaned 2 expired
 
 ### 2026-03-23
 - 🆕 Added 19 keys (codestral-latest, command-a-reasoning-08-2025, command-a-vision-07-2025, dall-e-3, deepseek-chat, deepseek-reasoner +12 more), cleaned 1 expired
-- 🆕 Added 6 keys (dall-e-3, deepseek-chat, gpt-5.4, gpt-5.4-mini, smart-chat, tts-1-hd), cleaned 1 expired
-- 🆕 Published 19 keys across 8 model families: GPT-5.4, DeepSeek, Mistral, Cohere, DALL-E 3, TTS, Embeddings
+- 🆕 Added 6 keys (dall-e-3, deepseek-chat, gpt-5.5, gpt-5.5-mini, smart-chat, tts-1-hd), cleaned 1 expired
+- 🆕 Published 19 keys across 8 model families: GPT-5.5, DeepSeek, Mistral, Cohere, DALL-E 3, TTS, Embeddings
 - 📝 Project launched
 </details>
 
