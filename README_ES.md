@@ -17,7 +17,7 @@ Copia una clave de la tabla, pégala en tu app y empieza a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Claves_Disponibles-19-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Claves_Disponibles-5-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 
 **⭐ Star este repo = más claves gratis para todos**
@@ -40,11 +40,29 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 
 ## 📋 Claves Disponibles
 
-Consulta la lista actualizada de claves en el **[README en inglés](./README.md#-available-keys)**.
+> ⏰ Última actualización: 2026-05-23 20:48 (UTC+8)
 
-Todas las claves son compatibles con **OpenAI SDK**. Base URL: `https://aiapiv2.pekpik.com/v1`
+### Modelos destacados
 
----
+### GPT-5.5 `05-23 20:48`
+
+| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
+|-----|--------|--------|-------------|------|--------|-------------|
+| `sk-TlNAhz6pzxlDYaoCnLkn4sA0GVSaczBTmS5BGOHvVyTdxRRg` | gpt-5.5 | 🆕 Nueva | $16 | 5 RPM | 2026-05-24 | Premium GPT flagship |
+| `sk-ZHu7zQRPY9u7U2M43ncST1As3yfZfTvAYrRWa4J8ZuYqJJaU` | gpt-5.5 | 🆕 Nueva | $18 | 5 RPM | 2026-05-24 | Premium GPT flagship |
+| `sk-7wBJl47jbbgMr25RohWCbteIPtnaeLOMUCAhFbhy4FmmOdtQ` | gpt-5.5 | 🆕 Nueva | $18 | 5 RPM | 2026-05-24 | Premium GPT flagship |
+
+### DeepSeek `05-23 20:48`
+
+| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
+|-----|--------|--------|-------------|------|--------|-------------|
+| `sk-y9Y6dHDM1PeVRPcxXSSksssvyr5rGRBsuhpUK8CELZuo3DOI` | deepseek-chat | 🆕 Nueva | $19 | 20 RPM | 2026-05-25 | Everyday chat, coding, translation, writing |
+
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini ruteo automático) `05-23 20:48`
+
+| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
+|-----|--------|--------|-------------|------|--------|-------------|
+| `sk-92cU7NiE9OUEHZvyZIRsodRMFCMVjgDRPvyeIjLWwP5I64ds` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-05-25 | Auto-routes across currently healthy low-cost chat backends |
 
 ## 🚀 Cómo Usar
 
