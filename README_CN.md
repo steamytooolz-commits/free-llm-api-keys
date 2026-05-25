@@ -17,7 +17,7 @@
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/可用_Key-27-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/可用_Key-10-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/支持模型-90+-blue?style=for-the-badge)]()
 
 **⭐ Star 本项目 = 更多免费 Key 给大家**
@@ -54,7 +54,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-05-25 17:22 (UTC+8)
+> ⏰ 最后更新： 2026-05-25 17:37 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -68,7 +68,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 覆盖 GPT-5.5、Claude Opus 4.7、Gemini、DeepSeek、smart-chat、Kimi、图像、语音和向量模型。
 发布器只展示真实 Key；目标模型没有 KM 推荐或额度不足时，会尝试 KM 推荐且有额度的同类模型，仍不可用则留空不展示。
 
-### GPT-5.5 `05-25 17:22`
+### GPT-5.5 `05-25 17:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -77,7 +77,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Claude Opus 4.7 `05-25 17:22`
+### Claude Opus 4.7 `05-25 17:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -90,50 +90,12 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Gemini `05-25 17:22`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-vinV74I8Z3fKs2RHFGh7lvXk5vJPKlQBxqZoOcammL0lWHa0` | gemini-2.5-flash | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | Gemini 快速模型，适合长上下文通用对话 |
-| `sk-W3VeViYAjGU6UdXq6B8gEyQXou0mATkxswhsjToAvhhklOQf` | gemini-2.5-flash | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | Gemini 快速模型，适合长上下文通用对话 |
-| `sk-BzShqcbymqzfLuJPbhGf8cuKHzymsh6kvU8xC9IxanEEhqj2` | gemini-2.5-flash | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | Gemini 快速模型，适合长上下文通用对话 |
-| `sk-IY6ydW0dcoQi1gpFP6yftA1ZWa7J0EfJ1lpGiSoxBkYJE7QL` | gemini-2.5-flash | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | Gemini 快速模型，适合长上下文通用对话 |
-| `sk-quzPFHEE1ghWqJh8qyIHEXYpUZyLONVYv2ghlEpMrtnBUuPg` | gemini-2.5-flash | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | Gemini 快速模型，适合长上下文通用对话 |
-| `sk-zL511n6jLeZ9UNOOSXiMNg8keLSygQMz79qq6lUrZvtppBZB` | gemini-2.5-flash | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | Gemini 快速模型，适合长上下文通用对话 |
-
----
-
-### DeepSeek `05-25 17:22`
+### DeepSeek `05-25 17:37`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
 | `sk-dpcyKZuec41434HjKsMQOKD5DfEVOr4zNVD9lz2ZYSXCXuZO` | deepseek-chat | 🆕 新增 | $18 | 20 RPM | 2026-05-27 | 日常对话、代码生成、翻译写作 |
-| `sk-L25TD93enbRYAiENlVIpLeXVaVWF59AXQzjF0BuVPHASza76` | deepseek-chat | 🆕 新增 | $9 | 20 RPM | 2026-05-26 | 日常对话、代码生成、翻译写作 |
-| `sk-8s2uYxKSn4Rq9EWncc6FxlSUb8LKNW5bojiNVsQrbeWFRqfp` | deepseek-chat | 🆕 新增 | $10 | 20 RPM | 2026-05-26 | 日常对话、代码生成、翻译写作 |
 | `sk-9xYZlbegbolk6hI3LHsfboKAZJgkzmNxZABSZjqyoe6k1TnE` | deepseek-chat | 🆕 新增 | $14 | 20 RPM | 2026-05-26 | 日常对话、代码生成、翻译写作 |
-
----
-
-### Kimi `05-25 17:22`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-WTdIQFTxu0zTYRCK1xLNciFy9Sr6hlBrsCu8JxUe8EZVeoev` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-05-25 | Kimi 长上下文通用模型 |
-| `sk-bO0qd7wcMeMUlUB52dEmY4flk9aa2rDZXRjcrKaKFGdElONn` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-05-25 | Kimi 长上下文通用模型 |
-| `sk-QN6H2xSkXXr00MJXnVZ0VrMosx5XGaPORZzSc5Irw9SzYxAs` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-05-25 | Kimi 长上下文通用模型 |
-| `sk-Px69x7h4t9zT4sJjUx4PnYQB3B0eMdGBf02ciXs6wsEzNNYz` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-05-25 | Kimi 长上下文通用模型 |
-| `sk-PH7298w2fkO6LXCiaLpEO6bCDOBy01UImkqjHPa8k73dJUkX` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-05-25 | Kimi 长上下文通用模型 |
-| `sk-z4B7zLrDLTE8NXVdjAzoB3PuqyTvLkv8MeaI1KlCqOpkVmoq` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-05-25 | Kimi 长上下文通用模型 |
-
----
-
-### 图像 / 语音 / 向量化 `05-25 17:22`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-gx0sJAQvWXiC9mWzy66tIkBPQe2cehgKxRUTDIkhxolyjhY8` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | 文本向量化 |
-| `sk-uKXIKZu3KvO9LtKFaWVH5LjEwpPuNlauIqfdmq5MBMOCmH27` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | 文本向量化 |
-| `sk-DBg6YyxGISEWKAyK9JaQHLSpSNxyId6IFE0TlHar48Cyoi4G` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-05-25 | 文本向量化 |
 
 
 ## 🚀 如何使用
