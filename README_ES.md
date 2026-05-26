@@ -17,7 +17,7 @@ Copia una clave de la tabla, pégala en tu app y empieza a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Claves_Disponibles-21-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Claves_Disponibles-37-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 
 **⭐ Star este repo = más claves gratis para todos**
@@ -40,11 +40,20 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 
 ## 📋 Claves Disponibles
 
-> ⏰ Última actualización: 2026-05-27 04:22 (UTC+8)
+> ⏰ Última actualización: 2026-05-27 04:30 (UTC+8)
 
 ### Modelos destacados
 
-### Claude Opus 4.7 `05-27 04:22`
+### GPT-5.5 `05-27 04:30`
+
+| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
+|-----|--------|--------|-------------|------|--------|-------------|
+| `sk-qH4Kfuq3yXsm2BtKpKPMc0ycXfU0uXqN67HkNhzcRTLaNDDe` | gpt-5.5 | 🆕 Nueva | $20 | 5 RPM | 2026-05-28 | Premium GPT flagship |
+| `sk-7W4w9ac3dPeIsYz3h5SJY97wEfdGkFwEz0awBSmQwkjWGv5Z` | gpt-5.5 | 🆕 Nueva | $20 | 5 RPM | 2026-05-28 | Premium GPT flagship |
+| `sk-b8InkId7n3pI5zANHZvtAJ7daF1xo2p1lZT85UIfP0nTF39u` | gpt-5.5 | 🆕 Nueva | $20 | 5 RPM | 2026-05-28 | Premium GPT flagship |
+| `sk-HC2B8zIbEgcjZkVwL14bkac38gGrt9YU656zcoEI6yaYDO6b` | gpt-5.5 | 🆕 Nueva | $20 | 5 RPM | 2026-05-28 | Premium GPT flagship |
+
+### Claude Opus 4.7 `05-27 04:30`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -55,7 +64,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-oSpDazuu3yRS7aW7YewrmM2HlFSJOMTraj4OtvtO1XYxFWu3` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 | `sk-jcKAQYEbjwnGNrL6nJBchqiXCBnzlf1Col74byVRaVWp4jqh` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 
-### Gemini `05-27 04:22`
+### Gemini `05-27 04:30`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -66,7 +75,29 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-XgjyFvFKwlN3owoZkPiGpCO2Mdw9yHOYgah7CaLtIwONjCrF` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-05-27 | Fast Gemini option for long-context general chat |
 | `sk-jCUWe0iXNGBHHxu4iYGTXe3lbOU30Ypf4uckmijtK6Bexnx0` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-05-27 | Fast Gemini option for long-context general chat |
 
-### Kimi `05-27 04:22`
+### DeepSeek `05-27 04:30`
+
+| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
+|-----|--------|--------|-------------|------|--------|-------------|
+| `sk-U3aYStcba7EbFoTqKNegbKSxVVxuuG1SKjXOKp8UW2t3avs1` | deepseek-chat | 🆕 Nueva | $20 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-EocVYNP2E1DXVvmBSVI1hj8izZ28uJYyAdev28A9DlIy8VcE` | deepseek-chat | 🆕 Nueva | $20 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-MViJ9TjLbo4lciAkdmSttnZXkXPJci1Bta4UuylwkQnNXk86` | deepseek-chat | 🆕 Nueva | $20 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-8mdDq17o0K9zJ564ww2fyewXas2csyK0zpEsi1JAFrn9dJkm` | deepseek-chat | 🆕 Nueva | $20 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-dClzKrWSsI2ptlGWWdWIwCmPYbyBfbGRTx2G4f9lHwFiLzTx` | deepseek-chat | 🆕 Nueva | $20 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+| `sk-dgOl2bWJbEpbjqZNXxH46soNtnN0SoVkYS3DV8EFW8BdqCxk` | deepseek-chat | 🆕 Nueva | $20 | 20 RPM | 2026-05-28 | Everyday chat, coding, translation, writing |
+
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini ruteo automático) `05-27 04:30`
+
+| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
+|-----|--------|--------|-------------|------|--------|-------------|
+| `sk-aFKLzdQgCJbBwqLzVLsk8cWjd5sPLc6XAjPAwEMT1G6lPFGy` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-05-28 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-DUT7tSwnupI5JV5QI4y75gst7E7lCk6Z21e0TwU92YMsCzvZ` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-05-28 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-rXPVWtT5kTC1j9HKSqt03J7AO02ElzW5ZqY4WJFVLnH4j3K1` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-05-28 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-DHBXEFuUi5SLoyuVq5vQVmhfKg2r5TG87WAiKb5BTjgxKiRZ` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-05-28 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-ap13uHdsIrzxI4Bkfwg2A7ArEWlc1flji0PpaP976HMafHN0` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-05-28 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-mZVkKcSSb5NE5WVEShcLUmIZtZ9J29rO8kRzqXOO6m4f7lwa` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-05-28 | Auto-routes across currently healthy low-cost chat backends |
+
+### Kimi `05-27 04:30`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -77,7 +108,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-8tP25tC4Z0SXw53E9tIWuR21W69VDqlMb0g0nGq2RIURjeSI` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-05-27 | Kimi long-context general model |
 | `sk-agA3ZWsT50zauu7Yut1siURisRijrSLeJjw8G5Z7XRQqx8wR` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-05-27 | Kimi long-context general model |
 
-### Image / Audio / Embedding `05-27 04:22`
+### Image / Audio / Embedding `05-27 04:30`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
