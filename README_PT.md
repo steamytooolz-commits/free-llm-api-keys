@@ -17,7 +17,7 @@ Copie uma chave da tabela, cole no seu app e comece a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-7-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Chaves_Disponíveis-9-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 
 **⭐ Star neste repo = mais chaves grátis para todos**
@@ -40,11 +40,11 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 
 ## 📋 Chaves Disponíveis
 
-> ⏰ Última atualização: 2026-05-27 19:37 (UTC+8)
+> ⏰ Última atualização: 2026-05-27 19:52 (UTC+8)
 
 ### Modelos em destaque
 
-### Claude Opus 4.7 `05-27 19:37`
+### Claude Opus 4.7 `05-27 19:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -55,11 +55,13 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-oSpDazuu3yRS7aW7YewrmM2HlFSJOMTraj4OtvtO1XYxFWu3` | claude-opus-4-7 | 🆕 Nova | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 | `sk-jcKAQYEbjwnGNrL6nJBchqiXCBnzlf1Col74byVRaVWp4jqh` | claude-opus-4-7 | 🆕 Nova | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 
-### DeepSeek `05-27 19:37`
+### DeepSeek `05-27 19:52`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
-| `sk-IbQpSfrUHLBv5af1knLyaa24UxpDK4DgoWe7hRdJSYhYKpdl` | deepseek-chat | 🆕 Nova | $13 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
+| `sk-rYu1Qh5hOfRf4K2VY3mfz8wZlBs6YMIX3dkqC3adeTvfVZRg` | deepseek-chat | 🆕 Nova | $11 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
+| `sk-4yfZzevfR8bY9moC34AQIpq9cufmyCZkWxJHAg1jLoA0myqL` | deepseek-chat | 🆕 Nova | $12 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
+| `sk-34qxKDEVY92hGWrZl5fm3z4IEQZzabRwlPU2gWbjEhLUmg2O` | deepseek-chat | 🆕 Nova | $13 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
 
 ## 🚀 Como Usar
 
