@@ -54,11 +54,11 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-05-27 19:07 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-05-27 19:22 (UTC+8)
 
 ### 주요 모델
 
-### Claude Opus 4.7 `05-27 19:07`
+### Claude Opus 4.7 `05-27 19:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -69,14 +69,15 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-oSpDazuu3yRS7aW7YewrmM2HlFSJOMTraj4OtvtO1XYxFWu3` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 | `sk-jcKAQYEbjwnGNrL6nJBchqiXCBnzlf1Col74byVRaVWp4jqh` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-05-28 | Claude Opus flagship |
 
-### DeepSeek `05-27 19:07`
+### DeepSeek `05-27 19:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-IbQpSfrUHLBv5af1knLyaa24UxpDK4DgoWe7hRdJSYhYKpdl` | deepseek-chat | 🆕 신규 | $16 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
-| `sk-sBmZ7dWpWt2gW8xUiKujzU1tKvaVebmNFakETFT05jqY1Hxe` | deepseek-chat | 🆕 신규 | $9 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
+| `sk-rYu1Qh5hOfRf4K2VY3mfz8wZlBs6YMIX3dkqC3adeTvfVZRg` | deepseek-chat | 🆕 신규 | $13 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
+| `sk-4yfZzevfR8bY9moC34AQIpq9cufmyCZkWxJHAg1jLoA0myqL` | deepseek-chat | 🆕 신규 | $14 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
+| `sk-34qxKDEVY92hGWrZl5fm3z4IEQZzabRwlPU2gWbjEhLUmg2O` | deepseek-chat | 🆕 신규 | $15 | 20 RPM | 2026-05-29 | Everyday chat, coding, translation, writing |
 
-### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `05-27 19:07`
+### 멀티 모델 (GPT-5.5 / Claude / DeepSeek / Gemini 자동 라우팅) `05-27 19:22`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -84,7 +85,6 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-dc95eLFnbv8Y3tEU4stpdy6nCU8nhv1YGRrrGIO2bQzkT0dy` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-YVBTQCaZIX2EouFbYBxNPfbSOKhjeCgzCk5CC1mnEvFNeAAh` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-RJu237GY6hpyBIkyxS7mnoYxpk8cBh51I7PpT7n0oFSs0Fg6` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-j2PXRTIDhFdIU6IxmYkxx7R8CeYBODbBH2shDeW8hJBcdf45` | smart-chat | 🆕 신규 | $20 | 10 RPM | 2026-05-29 | Auto-routes across currently healthy low-cost chat backends |
 
 ## 🚀 사용 방법
 
