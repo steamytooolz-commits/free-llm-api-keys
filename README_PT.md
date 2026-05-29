@@ -43,11 +43,11 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 
 ## 📋 Chaves Disponíveis
 
-> ⏰ Última atualização: 2026-05-30 00:30 (UTC+8)
+> ⏰ Última atualização: 2026-05-30 00:37 (UTC+8)
 
 ### Modelos em destaque
 
-### GPT-5.5 `05-30 00:30`
+### GPT-5.5 `05-30 00:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -56,7 +56,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-s6wjTkVIdQDQLEKDGtny6VyIE1Qos7LqHS7EpTxYLGzIH6W5` | gpt-5.5 | 🆕 Nova | $19 | 5 RPM | 2026-05-29 | Premium GPT flagship |
 | `sk-HgBgtmb9dPxFgZyJ5TunM7vbX4z1t8nWJv9Jk7k0g2eik4ZV` | gpt-5.5 | 🆕 Nova | $19 | 5 RPM | 2026-05-29 | Premium GPT flagship |
 
-### Claude Opus 4.7 `05-30 00:30`
+### Claude Opus 4.7 `05-30 00:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -67,7 +67,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-uXaNWShGMJW6xQalqiKswoeklFv2I7cH1HERIpfKJM30Mo2a` | claude-opus-4-7 | 🆕 Nova | $20 | 5 RPM | 2026-05-31 | Claude Opus flagship |
 | `sk-3ivzcYogyVcTsF96dCXe3U8i12y86EpDZwMaeWE6H8ZEV1yC` | claude-opus-4-7 | 🆕 Nova | $20 | 5 RPM | 2026-05-31 | Claude Opus flagship |
 
-### Gemini `05-30 00:30`
+### Gemini `05-30 00:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -78,7 +78,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-nTfHxNBXcnyJ9DNQ0TJZedszb1Nc7LlAoLDFCy6TIpjgKM2h` | gemini-2.5-flash | 🆕 Nova | $20 | 20 RPM | 2026-05-31 | Fast Gemini option for long-context general chat |
 | `sk-3krcl824QFdmvZBPMZNsAqomkUN9Q3Xoe4JHu6lr5ih64x9V` | gemini-2.5-flash | 🆕 Nova | $20 | 20 RPM | 2026-05-31 | Fast Gemini option for long-context general chat |
 
-### DeepSeek `05-30 00:30`
+### DeepSeek `05-30 00:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -86,7 +86,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-bV7866QWmlH0Obqm7LoraEGi0drUfGV3FTNSEC7s6hhk3Arl` | gemini-2.5-pro | 🆕 Nova | $20 | 20 RPM | 2026-05-31 | KM recommended alternative for Everyday chat, coding, translation, writing |
 | `sk-sw5qWnuQDGXV4mnkDOmaUHDIqumQdyHGY7sNeaQlEAOPa2gz` | gemini-2.5-pro | 🆕 Nova | $20 | 20 RPM | 2026-05-31 | KM recommended alternative for Everyday chat, coding, translation, writing |
 
-### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `05-30 00:30`
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini roteamento automático) `05-30 00:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -97,7 +97,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-wCd66WI2qF9aVWXrOM9J4Dq4F7YCJh183zxulA9mxvOFruGp` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-05-31 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-YRhIjocT5lts6RUvuGIwsSQMe47dHQTDaDVZKGEnQTs2kDEX` | smart-chat | 🆕 Nova | $20 | 10 RPM | 2026-05-31 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `05-30 00:30`
+### Kimi `05-30 00:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
@@ -108,7 +108,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 | `sk-CaRqf7x61XyI9QMMTAPmHTzq38yHERYEenu5kqD1JRjtTVei` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-05-31 | Kimi long-context general model |
 | `sk-JaFHYY92JWSwqE7DgbGPCxVHMi8fX9IXIREqs1K9FflenX9h` | kimi-k2.5 | 🆕 Nova | $20 | 10 RPM | 2026-05-31 | Kimi long-context general model |
 
-### Image / Audio / Embedding `05-30 00:30`
+### Image / Audio / Embedding `05-30 00:37`
 
 | Key | Modelo | Status | Orçamento | Taxa | Expira | Descrição |
 |-----|--------|--------|-----------|------|--------|-------------|
