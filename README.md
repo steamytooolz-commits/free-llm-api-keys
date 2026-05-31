@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-12-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-31-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -58,7 +58,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-05-31 22:22 (UTC+8)
+> ⏰ Last updated: 2026-05-31 22:30 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -72,7 +72,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. If a target model has no KM recommendation or quota, it tries a quota-backed KM-recommended model in the same capability; otherwise that shelf stays hidden.
 
-### GPT-5.5 `05-31 22:22`
+### GPT-5.5 `05-31 22:30`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -81,7 +81,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Claude Opus 4.7 `05-31 22:22`
+### Claude Opus 4.7 `05-31 22:30`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -94,7 +94,20 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### DeepSeek `05-31 22:22`
+### Gemini `05-31 22:30`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-BZmtshsUvv4qdHtZ7hUNA6cPxIiHkNYSI2XsSzytdk819874` | gemini-2.5-flash | 🆕 New | $20 | 20 RPM | 2026-06-02 | Fast Gemini option for long-context general chat |
+| `sk-ly8lTsqfqWiXW8xDmx8VrFVo8acyS5rQeRmyjViv3awyNfFO` | gemini-2.5-flash | 🆕 New | $20 | 20 RPM | 2026-06-02 | Fast Gemini option for long-context general chat |
+| `sk-jyWrH9fpKZaRf5sJLRXSkALdI2qUeWHm8yFw2juAr5ePMCb9` | gemini-2.5-flash | 🆕 New | $20 | 20 RPM | 2026-06-02 | Fast Gemini option for long-context general chat |
+| `sk-v4UYW7dAO8CkeE54PD0dIa3UxtcXh3m4RoIkHVK3nhe6NsAc` | gemini-2.5-flash | 🆕 New | $20 | 20 RPM | 2026-06-02 | Fast Gemini option for long-context general chat |
+| `sk-AZaXsOWfo3wYGZ6a66hTZL5dzhxEoaSgIV440clViPs4p7Jl` | gemini-2.5-flash | 🆕 New | $20 | 20 RPM | 2026-06-02 | Fast Gemini option for long-context general chat |
+| `sk-JQs67IeI6xPODnGbsh6rbPdkCXGfrWM7298XhHNGgoOEliF6` | gemini-2.5-flash | 🆕 New | $20 | 20 RPM | 2026-06-02 | Fast Gemini option for long-context general chat |
+
+---
+
+### DeepSeek `05-31 22:30`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -104,11 +117,38 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Kimi `05-31 22:22`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `05-31 22:30`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-kBaQEOLYq2T23YysL55I9df6UivNbhH1E7f1aP61sggo65g6` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-02 | Kimi long-context general model |
+| `sk-dMKXbA0RSHjU0iojpg7AhoFJwf0KtyrsYYGQguw6sPh6Vicf` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-02 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-HIJHq3401ZJJUY0dACZXeFf4E4Sp329HnqoBrnvvXkMJAwwj` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-02 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-y0lQVxrToRJI3WHxHXFSh53TwxS9TzkjdAb8UdXr3n0EWVL2` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-02 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-iIdDQnzUOLkOiWHbrysR1WrDT09ddgVKRxuOJSsJIRWbaWQg` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-02 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-mZT6jV2mjUTb5kIlBWrqFq6ooiAja5dCtWNVeEoWQQ14aLYl` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-02 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-yLsNZUbYgM5MdEHLSUZsfj2HqXMvUctPF22U1uballyQ1yAk` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-02 | Auto-routes across currently healthy low-cost chat backends |
+
+---
+
+### Kimi `05-31 22:30`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-4o3j1qQZfWGDsy8MgMPid6US8yR9DKeuz4PtwVinrEkYJKc0` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-02 | Kimi long-context general model |
+| `sk-wLzzALrkzxb7rOL1p29DLWVzRTK661cpvmXLEpan3BYxIJVO` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-02 | Kimi long-context general model |
+| `sk-gXxscUrphAhk1AuGLY89UUQHIEw377ZpEnfg3KBGPKsFsZzR` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-02 | Kimi long-context general model |
+| `sk-IliQmTQe4krJNDNOpa4TTctHa7juckWC3AviBIqCv6JNznqq` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-02 | Kimi long-context general model |
+| `sk-bGayPrrQIdyk8mzhnQSWWwjmUDKLum8A4hoeLq1dwnRpcCta` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-02 | Kimi long-context general model |
+
+---
+
+### Image / Audio / Embedding `05-31 22:30`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-oZJAymzNAKsbTOG12uXk6E95Axzyzu2xJvarztKeyKbRM48n` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-02 | Text embeddings |
+| `sk-7xtD8jCZvNvXAPiTGblWpizWwOuHcWDYfW9YzH9kj2ZFD5ZI` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-02 | Text embeddings |
+| `sk-xY2tVYVNLPkDZFAqLzEeQqdx9QyTYt8Fim1J5v605aPfAOJZ` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-02 | Text embeddings |
 
 
 ## 🚀 How to Use
@@ -299,6 +339,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-05-31
+- 🆕 Added 20 keys (gemini-2.5-flash, smart-chat, kimi-k2.5, text-embedding-3-small), cleaned 1 expired
 - 🆕 Added 0 keys (no new keys), cleaned 10 expired
 - 🆕 Added 15 keys (gemini-2.5-pro, smart-chat, kimi-k2.5), cleaned 1 expired
 - 🆕 Added 0 keys (no new keys), cleaned 8 expired
