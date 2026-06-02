@@ -17,7 +17,7 @@
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/可用_Key-28-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/可用_Key-29-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/支持模型-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/在_X_关注-获取新key-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -57,7 +57,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-06-03 02:37 (UTC+8)
+> ⏰ 最后更新： 2026-06-03 02:52 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -71,7 +71,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 覆盖 GPT-5.5、Claude Opus 4.7、Gemini、DeepSeek、smart-chat、Kimi、图像、语音和向量模型。
 发布器只展示真实 Key；目标模型没有 KM 推荐或额度不足时，会尝试 KM 推荐且有额度的同类模型，仍不可用则留空不展示。
 
-### GPT-5.5 `06-03 02:37`
+### GPT-5.5 `06-03 02:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -80,7 +80,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Claude Opus 4.7 `06-03 02:37`
+### Claude Opus 4.7 `06-03 02:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -93,7 +93,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Gemini `06-03 02:37`
+### Gemini `06-03 02:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -106,7 +106,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### DeepSeek `06-03 02:37`
+### DeepSeek `06-03 02:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -116,11 +116,10 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### 多模型聚合（GPT-5.5 / Claude / DeepSeek / Gemini 自动轮询） `06-03 02:37`
+### 多模型聚合（GPT-5.5 / Claude / DeepSeek / Gemini 自动轮询） `06-03 02:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-592qGzkNO2oYDlkxGWkzYjDbsXBQo1b94FrAVP5zPSlVFUbU` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-04 | 自动路由到当前健康的低成本聊天模型 |
 | `sk-5D8MwYaPcmOcoktmHO5HNA8HVsewTf557YbsxcJNScJU00zL` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-04 | 自动路由到当前健康的低成本聊天模型 |
 | `sk-WR0psH3miOdu7s4YSHcfXdT6NpoRIFxSDLUdzEZiMS5QnuPc` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-04 | 自动路由到当前健康的低成本聊天模型 |
 | `sk-fKdx8Qf8mImM2bWYQsDAdgaLPpm5GXnbgKFHqKbVtxMYQueS` | smart-chat | 🆕 新增 | $20 | 10 RPM | 2026-06-04 | 自动路由到当前健康的低成本聊天模型 |
@@ -129,16 +128,18 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Kimi `06-03 02:37`
+### Kimi `06-03 02:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-pc6Ugxnsj4MbBZRKXnKhzFhl8BUXDyk9LCMIVLudS26xYxG2` | kimi-k2.5 | 🆕 新增 | $17 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
-| `sk-KU0HHyI9ziP28esaG8RbkiyYH2CUbOHaJiKTMAdUj6WMecIZ` | kimi-k2.5 | 🆕 新增 | $15 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
+| `sk-At6JJPezY8c5RqQtDyVwzDmUprVFauUZkDrfnbGOkS09Guwj` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
+| `sk-Br0oq4HTKBZh9640DRxc044wR87aGEHz7RMJLMKth4dKVLVX` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
+| `sk-Uj7bGTkHyY4tAKvc6dLiTkE1g0aCfhUzyzpT5gtcLnjYHZ4E` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
+| `sk-6lRJEnLLIvDnoBxqOHfN8OZzzxp3cR7AxIyzi3c4izXZAwsc` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-04 | Kimi 长上下文通用模型 |
 
 ---
 
-### 图像 / 语音 / 向量化 `06-03 02:37`
+### 图像 / 语音 / 向量化 `06-03 02:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
