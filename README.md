@@ -58,7 +58,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-03 15:07 (UTC+8)
+> ⏰ Last updated: 2026-06-03 15:22 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -72,7 +72,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. If a target model has no KM recommendation or quota, it tries a quota-backed KM-recommended model in the same capability; otherwise that shelf stays hidden.
 
-### GPT-5.5 `06-03 15:07`
+### GPT-5.5 `06-03 15:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -83,7 +83,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Claude Opus 4.7 `06-03 15:07`
+### Claude Opus 4.7 `06-03 15:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -94,7 +94,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Gemini `06-03 15:07`
+### Gemini `06-03 15:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -107,7 +107,7 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### DeepSeek `06-03 15:07`
+### DeepSeek `06-03 15:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -117,17 +117,17 @@ The publisher only shows real keys. If a target model has no KM recommendation o
 
 ---
 
-### Kimi `06-03 15:07`
+### Kimi `06-03 15:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-irjuhLPRJdHCxF2EjGgVJ2Evg8E6PyR0nFrwR5rxdXdzQ9He` | kimi-k2.5 | 🆕 New | $3 | 10 RPM | 2026-06-04 | Kimi long-context general model |
-| `sk-Qop2jYIp5oJ1W3VpUQYf28hWNkfJ68utgAaq2wniCZnN7vPw` | kimi-k2.5 | 🆕 New | $0 | 10 RPM | 2026-06-04 | Kimi long-context general model |
-| `sk-2rlw5IYV1ix8ygX832rcmWunDTYep0qdSmVSOHXk4kQN4ju0` | kimi-k2.5 | 🆕 New | $7 | 10 RPM | 2026-06-04 | Kimi long-context general model |
+| `sk-J154IFIPzdDThWmV4ZSV1pYHfMg0oXLzfGetNw9bMGDXyWii` | kimi-k2.5 | 🆕 New | $9 | 10 RPM | 2026-06-05 | Kimi long-context general model |
+| `sk-Y0zUkkiE5V1pSZhvUShjx3VbVJYWScaMi3P8WeK08LRg3r8X` | kimi-k2.5 | 🆕 New | $8 | 10 RPM | 2026-06-05 | Kimi long-context general model |
+| `sk-4fhUV3FpkGNSg6uJ72s3d4TMDi4iIZxLBoozpZmlRUressIY` | kimi-k2.5 | 🆕 New | $7 | 10 RPM | 2026-06-05 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-03 15:07`
+### Image / Audio / Embedding `06-03 15:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -324,6 +324,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-03
+- 🆕 Added 3 keys (kimi-k2.5), cleaned 4 expired
 - 🆕 Added 7 keys (kimi-k2.5, claude-opus-4-7), cleaned 8 expired
 - 🆕 Added 5 keys (kimi-k2.5, claude-opus-4-7), cleaned 1 expired
 - 🆕 Added 13 keys (claude-opus-4-7, smart-chat, kimi-k2.5), cleaned 2 expired
