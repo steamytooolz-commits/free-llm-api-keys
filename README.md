@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-39-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-47-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-09 20:22 (UTC+8)
+> ⏰ Last updated: 2026-06-09 20:31 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,19 +85,15 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### GPT-5.5 `06-09 20:22`
+### GPT-5.5 `06-09 20:31`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-UVw54m3qn3eg8GxJbQZzsm7Pe4Jam3N0rOEHI22BRLpqbIHw` | gpt-5.5 | 🆕 New | $12 | 5 RPM | 2026-06-11 | Premium GPT flagship |
-| `sk-aOaxuJMIbqFWIVzOvXvbhDJHRLsy0KIRuiQ1aMgIZmefJ6fL` | gpt-5.5 | 🆕 New | $18 | 5 RPM | 2026-06-11 | Premium GPT flagship |
-| `sk-Xqjo34qSDX7GfbO22qArUq8hcoLSpsbb3w7npbaiu8fLHOxr` | gpt-5.5 | 🆕 New | $13 | 5 RPM | 2026-06-11 | Premium GPT flagship |
-| `sk-JQvoXUr8SnI3hUh3Fdcr8lm2SLlrihBiwKZAeOk8zZqd6vQl` | gpt-5.5 | 🆕 New | $11 | 5 RPM | 2026-06-11 | Premium GPT flagship |
-| `sk-t5hVbEYmjucU1BxrqUDJyMI0cSkRsnNKM8nxxB0ZFz0bIUaR` | gpt-5.5 | 🆕 New | $14 | 5 RPM | 2026-06-11 | Premium GPT flagship |
+| `sk-2bLqInle779CZ1WzxnG3C85tdGIwBFliEfJIYeauB8TgIIk1` | gpt-5.5 | 🆕 New | $19 | 5 RPM | 2026-06-11 | Premium GPT flagship |
 
 ---
 
-### Claude Opus 4.7 `06-09 20:22`
+### Claude Opus 4.7 `06-09 20:31`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -106,7 +102,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-09 20:22`
+### Gemini `06-09 20:31`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -119,22 +115,213 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-09 20:22`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-09 20:31`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-KWVCjp9pYXkh72S6fxEz8KZEK21nUaDXYZHY78KnI5H8Muec` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-11 | Kimi long-context general model |
-| `sk-c9ZyY5AImvFfzxJ4en1jXBZiQGbpCCzhlqN9oRTnteT14XVu` | kimi-k2.5 | 🆕 New | $15 | 10 RPM | 2026-06-11 | Kimi long-context general model |
+| `sk-4niByVBXzmp1mgEAaxej2sCaWlhYpLquWoD28mX3bqkvVhUR` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-VqitdKjum04JehEZeEa4aBt1a076QlTUnxk5K2Z5rohhIO59` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-vM4Pdsa9V8oHVLXjO4Elhc1Zu8C2tiffgJNSAEE4RR1IIkMw` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-9Zs8BKRCOyHWMGdPd1v9lqWk6F3NxSylKBlZbHHjVmZOPWJY` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-3mYISqdnxiqK2tY7GTL854LYWVWawjd8ldlXfqdA7dP5Ox7J` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
+| `sk-uYB8bIpdhETO8gynnx2MZoaLOlRjjRpTMLgNyYoDpYEeVLQU` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-11 | Auto-routes across currently healthy low-cost chat backends |
 
 ---
 
-### Image / Audio / Embedding `06-09 20:22`
+### Kimi `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-ijSj3ODjc8HGQL7vzCTcfO9sdxwaGa5CyzOq4ekRwMuu76X2` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-11 | Kimi long-context general model |
+| `sk-jNKdRw2Zgs0znAUiank9CULvStQGLvOJfeTYQFcLBbzedgDm` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-11 | Kimi long-context general model |
+| `sk-Z20fGO8EFLUTHEEqg7hyqQR1k1VmHy7aCuK5F5Iw9jc2PDQh` | kimi-k2.5 | 🆕 New | $10 | 10 RPM | 2026-06-10 | Kimi long-context general model |
+| `sk-C9JjlIEiBJ4J8xGhHHKyRbskd5jZYWCsgQtbxi7v3LNdWncO` | kimi-k2.5 | 🆕 New | $12 | 10 RPM | 2026-06-10 | Kimi long-context general model |
+
+---
+
+### Image / Audio / Embedding `06-09 20:31`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-LLSm7Q9rSrlUHg8MYYYZPwNZRowKCqFnJb9lFwEuEJ3qKZIL` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-10 | Text embeddings |
 | `sk-DTVP2vzvaQbfJ7ivR7YOYXgwpAoeBm70FB9Zz8TecRLFaFAG` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-10 | Text embeddings |
 | `sk-P0BQ3DFZObneEfX4ws3P5BSia6Br0Hjj9wDqXihvT59k60ec` | text-embedding-3-small | 🆕 New | $20 | 20 RPM | 2026-06-10 | Text embeddings |
+
+### deepseek-v4-flash `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-I99oeeU09ta5qj3y39TdRJ9zHACgDHfZgmMAXy8zexqw0L6H` | deepseek-v4-flash | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### deepseek-v4-pro `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-sspqvJQs6OoVfdsPaNFptFvPwUOCrniKdrSeMHhCC61R0mPS` | deepseek-v4-pro | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### baidu/cobuddy:free `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-YHJXpKyEVFbsEZQFt9VSzSfoy8IhBWQCWqAOQMqWeEFnU0b7` | baidu/cobuddy:free | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### google/gemini-3.1-flash-lite `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-GKVjGqBX8gsSrPFM3l0WbpqukbLH7wK4xVGwy42ojEio2I64` | google/gemini-3.1-flash-lite | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### ibm-granite/granite-4.1-8b `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-Epg19j9OvsG3jBMf6TQZMVwYG8P9oZEjH53FUOu0bI9Emk10` | ibm-granite/granite-4.1-8b | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### inclusionai/ring-2.6-1t `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-UmROB6K4f1u6nJZQM1utlAwfYFtn5vSYVRBeRFt8pNEZfrlF` | inclusionai/ring-2.6-1t | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### mistralai/mistral-medium-3-5 `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-jVXgaIXOx1RdbIYEJ7ZlFfaS3ivmwlJ31dCNne7DWzRqTBR0` | mistralai/mistral-medium-3-5 | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### openai/gpt-chat-latest `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-4MWncTrdIkzdjYgCWNRWzy3CCsaqh27MQ2F0O2fJT4XcAo5M` | openai/gpt-chat-latest | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### openrouter/owl-alpha `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-pr3nFO0cuH21W4T8EEYg6CBuBcaKP9TgKJLO8tvmYlh4ZuTd` | openrouter/owl-alpha | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### perceptron/perceptron-mk1 `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-iecEfolicC7NauhQxl6YE66UvyT5ajLS3D4TJ7QYW3HErGZW` | perceptron/perceptron-mk1 | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### poolside/laguna-m.1:free `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-zPlCJJ0A0pUqrbA8pHcKZj5DTME2qFSR0qZ37jXDV8RGTU2F` | poolside/laguna-m.1:free | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### x-ai/grok-4.3 `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-4TRyGbmRzY1KdYai5365deZILt6nMJjr9KYOnZuTxIprs9Xk` | x-ai/grok-4.3 | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### deepseek/deepseek-v4-flash `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-7ZXhYRiLJQwvOLyh3BPgNTSal6oEIRmpXJjkpFdJ8O7JRxk1` | deepseek/deepseek-v4-flash | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### deepseek/deepseek-v4-pro `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-Sonz0xnpw2WqsexPTWFxrM6QaqX5jxCSy6bm5J3LS71oHGQ8` | deepseek/deepseek-v4-pro | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### inclusionai/ling-2.6-1t:free `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-MruzTJpX4oN6AviXkaVX78C2LRqAmBSVaj1WQhVRkOXo5LDA` | inclusionai/ling-2.6-1t:free | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### openai/gpt-5.5 `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-BOKUcrhwCgLPYTDDCQU1fDNRanbzezfUuLNg2oshoYx19946` | openai/gpt-5.5 | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### openai/gpt-5.5-pro `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-WjGXWNFhToN1UalWY6ngC9J2l4i1o8hc9uvvWbglkA6vSTLO` | openai/gpt-5.5-pro | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### qwen/qwen3.5-plus-20260420 `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-7KYp3IoNl0sz9lFD4lFxT87Tal7cxlhY5N0UJzWcmoeEy050` | qwen/qwen3.5-plus-20260420 | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### qwen/qwen3.6-27b `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-ox2BpSji31upzZtdK0DfJEWy5toP5X6DtSUlkxGmuGmxcDvX` | qwen/qwen3.6-27b | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### qwen/qwen3.6-35b-a3b `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-g6d3DtdAxJ3wLQCjO1ZhYXQSVunAsbaEIIPlIS5SibkWuMk2` | qwen/qwen3.6-35b-a3b | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### qwen/qwen3.6-max-preview `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-5H2tE34tXKsF3Zq8Ma38BMkgOR0b6UsA2WITJaByshcLVCQa` | qwen/qwen3.6-max-preview | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
+
+### inclusionai/ring-2.6-1t:free `06-09 20:31`
+
+| Key | Model | Status | Budget | Rate Limit | Expires | Description |
+|-----|-------|--------|--------|------------|---------|-------------|
+| `sk-9iJRxRp9tcQWYnGBS4FOtSvfSaodMFGLgIzRZisrtFKpPNk5` | inclusionai/ring-2.6-1t:free | 🆕 New | $20 | 10 RPM | 2026-06-10 | Live positive-balance channel |
+
+---
 
 ### nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free `06-09 14:31`
 
@@ -159,151 +346,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | `sk-WFqoFEU4PmUizRkWMVyEv0B2vxyByqroCCiAS6R7fY4puU6S` | poolside/laguna-xs.2:free | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
 
 ---
-
-### baidu/cobuddy:free `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-XqxdPfKBIslioUhUltbezSEZRegTF1Huq7WJFMj6l0zVwoDG` | baidu/cobuddy:free | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### google/gemini-3.1-flash-lite `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-ComHm2L7Zz7Fm0Wy2gGDzfgQTqhWWO6o3BTv9dOO8vMHPkBZ` | google/gemini-3.1-flash-lite | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### ibm-granite/granite-4.1-8b `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-JEZ8L4QfsIo74m73ZUAt7RcVLjuIMhZaV20wrHUnCcrq9lmh` | ibm-granite/granite-4.1-8b | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### inclusionai/ring-2.6-1t `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-i1mqza0LYI6w37DIueuFWBFQtdzFkwudiUpe7TuXxOhZSyBL` | inclusionai/ring-2.6-1t | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### mistralai/mistral-medium-3-5 `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-irA92AIVyGQAxToOmfLQMUvVEuwizkpJTyWWmMfrAwbT3zCw` | mistralai/mistral-medium-3-5 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### openai/gpt-chat-latest `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-3BVteHAXplr06PPgWMnfHMP1InX66UbYiXXoD5739eEN7bqd` | openai/gpt-chat-latest | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### perceptron/perceptron-mk1 `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-PEfWpcow6zVN1myiBCMbp6DXYOBwd4y5tgci8xUpbJ2aQZGQ` | perceptron/perceptron-mk1 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### x-ai/grok-4.3 `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-B2uFljyeliZ9pS7zf5TJYdVVovJBz8MlhyhwdgpyuD8VGMxj` | x-ai/grok-4.3 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### deepseek/deepseek-v4-flash `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-M6J32rA3yexICvREG3CtFiEkG6G7GHpu4sOQjF2NUzLaltbQ` | deepseek/deepseek-v4-flash | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### deepseek/deepseek-v4-pro `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-3F8VtyGGWFv4LONsVRVGTuHt4CBEl6sFnS3dwvEhjK32Lddf` | deepseek/deepseek-v4-pro | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### inclusionai/ling-2.6-1t:free `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-kp4Eu9uwXLMaJ8Eara2p0Avkp00j6igngFCnyB2Fs9eQrgRa` | inclusionai/ling-2.6-1t:free | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### openai/gpt-5.5 `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-lxuFMF7k18j4rPgVgjyn8w6ItitWWWQskCFBcYnypqfCu9K0` | openai/gpt-5.5 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### openai/gpt-5.5-pro `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-Nlng0zFe9Z6NTpzb9uLHYMgaFO21uY12OqFcVSHjrqUlbZNs` | openai/gpt-5.5-pro | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### qwen/qwen3.5-plus-20260420 `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-XdYNTOlRLOhKe1YLXGuPvi8eWSnKXwd5uC2rNzvNP3BTwUQA` | qwen/qwen3.5-plus-20260420 | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### qwen/qwen3.6-27b `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-6uhNUtdG9bZZnldhtrAahWkRjw7Qfll7E9M5ZYxNUoTn3dvQ` | qwen/qwen3.6-27b | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### qwen/qwen3.6-35b-a3b `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-uLBIDDfkhJbOj1DN9RRWFN1eV7s75HF4h4IbswSWqmTqxnQi` | qwen/qwen3.6-35b-a3b | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### qwen/qwen3.6-max-preview `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-SeMvZEeuGDJOeMFU8fchWu3Gdwo0iIUT2LOOCjGgAxZTtrJT` | qwen/qwen3.6-max-preview | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
-### inclusionai/ring-2.6-1t:free `06-08 20:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-rBUAIgBy80xwvdbcD4gFQH6UCwHBsEef1dgv1OQhyQqhtF7I` | inclusionai/ring-2.6-1t:free | 🆕 New | $20 | 10 RPM | 2026-06-09 | Live positive-balance channel |
-
----
-
 
 ## 🚀 How to Use
 
@@ -493,6 +535,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-09
+- 🆕 Added 33 keys (smart-chat, kimi-k2.5, deepseek-v4-flash, deepseek-v4-pro, baidu/cobuddy:free, google/gemini-3.1-flash-lite, ibm-granite/granite-4.1-8b, inclusionai/ring-2.6-1t, mistralai/mistral-medium-3-5, openai/gpt-chat-latest, openrouter/owl-alpha, perceptron/perceptron-mk1, poolside/laguna-m.1:free, x-ai/grok-4.3, deepseek/deepseek-v4-flash, deepseek/deepseek-v4-pro, inclusionai/ling-2.6-1t:free, openai/gpt-5.5, openai/gpt-5.5-pro, qwen/qwen3.5-plus-20260420, qwen/qwen3.6-27b, qwen/qwen3.6-35b-a3b, qwen/qwen3.6-max-preview, inclusionai/ring-2.6-1t:free, gpt-5.5), cleaned 1 expired
 - 🆕 Added 4 keys (gpt-5.5, kimi-k2.5), cleaned 1 expired
 - 🆕 Added 7 keys (kimi-k2.5, gpt-5.5), cleaned 4 expired
 - 🆕 Added 7 keys (kimi-k2.5, gpt-5.5), cleaned 5 expired
