@@ -57,28 +57,28 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 
 ## 📋 利用可能なキー
 
-> ⏰ 最終更新: 2026-06-17 00:37 (UTC+8)
+> ⏰ 最終更新: 2026-06-17 00:52 (UTC+8)
 
 ### 主要モデル
 
-### Claude Opus 4.7 `06-17 00:37`
+### Claude Opus 4.7 `06-17 00:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
-| `sk-Ko41fbaY8RWa1F5CsWRx29z37KDGSwghotHOTFR8ZpxQAmjI` | claude-opus-4-7 | 🆕 新規 | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-FdL9Ej9GoPAtISe7FihuJFbb2rpuLi6yXCfVC2Q2eBakp6R7` | claude-opus-4-7 | 🆕 新規 | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-l1y11wVV1t1Bo1bHijjSQjn1aCNebgf3fhtLz7zZg61IfVAr` | claude-opus-4-7 | 🆕 新規 | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-FFeCdCNr0q87U3KxL4Yk4b43XlExLSb2zJxvxsxBkI0RhknE` | claude-opus-4-7 | 🆕 新規 | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-r2U9eBeefc2bozPLK54ycSI8Z5kJrLRfPeZGA507xffRHD7S` | claude-opus-4-7 | 🆕 新規 | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-6QKd19iDga9wevkxASe8zPHOCu0D3FKwCrNfqsXq5Fl8hOXi` | claude-opus-4-7 | 🆕 新規 | $14 | 5 RPM | 2026-06-18 | Claude Opus flagship |
 
-### マルチモデル (GPT-5.5 / Claude / DeepSeek / Gemini 自動ルーティング) `06-17 00:37`
+### マルチモデル (GPT-5.5 / Claude / DeepSeek / Gemini 自動ルーティング) `06-17 00:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
-| `sk-rQqhGM4KpWGEA9pEVzXciYGt0ngMUPEJiO7uyQus4ICThPWd` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-B7soYzUFZXyK8Apx3f7n2nKP1b8sK0sQSusW7qcKZau5sNGl` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-8IMgypbCpUgoTJiVFoY3YVGiDlVxz9LMFcbxsS8759w82aTk` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-s6jBCm8UKATvDNvOLSExFwOwb2L3cogztuXLn8T4ajKlPCIb` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-pK3OxXT4zFHQj6obin3D8wM03NCcnb6b8xWtRSLW7SUX6Z1M` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
-| `sk-0A7Xc6v4TEk4UojswJLuzGrHfzFpAfOLpqloomwvdrMbDhRr` | smart-chat | 🆕 新規 | $20 | 10 RPM | 2026-06-18 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `06-17 00:37`
+### Kimi `06-17 00:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
