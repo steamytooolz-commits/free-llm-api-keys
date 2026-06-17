@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-18 06:07 (UTC+8)
+> ⏰ Last updated: 2026-06-18 06:22 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,15 +85,19 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### Claude Opus 4.7 `06-18 06:07`
+### Claude Opus 4.7 `06-18 06:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-Ko41fbaY8RWa1F5CsWRx29z37KDGSwghotHOTFR8ZpxQAmjI` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-jzKBe16W1IEwf8cRnhdRTRlGTtcmCRhEOC6dZjJtnQ8rDwSz` | claude-opus-4-7 | 🆕 New | $20 | 5 RPM | 2026-06-19 | Claude Opus flagship |
+| `sk-FdL9Ej9GoPAtISe7FihuJFbb2rpuLi6yXCfVC2Q2eBakp6R7` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-l1y11wVV1t1Bo1bHijjSQjn1aCNebgf3fhtLz7zZg61IfVAr` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-FFeCdCNr0q87U3KxL4Yk4b43XlExLSb2zJxvxsxBkI0RhknE` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
+| `sk-r2U9eBeefc2bozPLK54ycSI8Z5kJrLRfPeZGA507xffRHD7S` | claude-opus-4-7 | 🆕 New | $19 | 5 RPM | 2026-06-18 | Claude Opus flagship |
 
 ---
 
-### Gemini `06-18 06:07`
+### Gemini `06-18 06:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -106,18 +110,15 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-18 06:07`
+### Kimi `06-18 06:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-d8kgF54ViZbQosIe6QFqP0kWH0jJOhCWmCIsIj34ibySqhh2` | kimi-k2.5 | 🆕 New | $15 | 10 RPM | 2026-06-19 | Kimi long-context general model |
-| `sk-hJrgD7xcQGsiGfY3BHjpFplzbhrTGj2kO7iZQYTfLbwU8qM3` | kimi-k2.5 | 🆕 New | $12 | 10 RPM | 2026-06-19 | Kimi long-context general model |
-| `sk-UskChhE2f6OZoVkf1gGfVl0XFVw5ltjAWEIQt1lEqT3hmroa` | kimi-k2.5 | 🆕 New | $15 | 10 RPM | 2026-06-19 | Kimi long-context general model |
-| `sk-RTwzxHNWcDtwjgZuIBlAEAG9TVAS1tg7tiD6dfcdmVk3W9P9` | kimi-k2.5 | 🆕 New | $18 | 10 RPM | 2026-06-19 | Kimi long-context general model |
+| `sk-3NNAnlsbjb8Y8fGvsgoQTwVTeDRKzJeTHKQpqQ9X97KQbzTH` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-19 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-18 06:07`
+### Image / Audio / Embedding `06-18 06:22`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -162,14 +163,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-l4j9dsjgMEOIvtfvRDMaD4bSiqg3iedGQuhfHYdWMG1m0lLu` | x-ai/grok-4.3 | 🆕 New | $20 | 10 RPM | 2026-06-18 | Live positive-balance channel |
-
----
-
-### google/gemini-3.5-flash `06-18 04:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-wMj8gscpLJO4W1EKfrUrXSDra5xaXwIvqcjA4oSskIGKLRZK` | google/gemini-3.5-flash | 🆕 New | $20 | 10 RPM | 2026-06-18 | Live positive-balance channel |
 
 ---
 
@@ -522,6 +515,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-18
+- 🆕 Added 6 keys (kimi-k2.5, claude-opus-4-7), cleaned 2 expired
 - 🆕 Added 6 keys (kimi-k2.5, claude-opus-4-7), cleaned 1 expired
 - 🆕 Added 5 keys (kimi-k2.5, claude-opus-4-7), cleaned 3 expired
 - 🆕 Added 7 keys (kimi-k2.5, claude-opus-4-7), cleaned 8 expired
