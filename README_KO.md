@@ -57,18 +57,20 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-06-19 01:52 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-06-19 02:07 (UTC+8)
 
 ### 주요 모델
 
-### Claude Opus 4.7 `06-19 01:52`
+### Claude Opus 4.7 `06-19 02:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-GzdBRSjLa7tCa27N02s5gHOdYaxLEbbdQHHe0OhIssaXDPVX` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-20 | Claude Opus flagship |
-| `sk-jzKBe16W1IEwf8cRnhdRTRlGTtcmCRhEOC6dZjJtnQ8rDwSz` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-19 | Claude Opus flagship |
+| `sk-9pTkAV4j6diRV9pnzi3EV0iCB3YunDUNhiyvagekepbVOQZK` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-20 | Claude Opus flagship |
+| `sk-bnlAkstgJxbOnkcjwU1rdwBBHK3T3jwvXrHo1YANy7t0tCph` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-20 | Claude Opus flagship |
+| `sk-5eIya7iH5eNNxVGDsZ5PnQko5trdZztvbZrOfi0YSmuajEUd` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-20 | Claude Opus flagship |
+| `sk-XpwguGryO9IGGyk7YB6xWJWWABX9orsytsmzYGkTIPkKanpw` | claude-opus-4-7 | 🆕 신규 | $20 | 5 RPM | 2026-06-20 | Claude Opus flagship |
 
-### Gemini `06-19 01:52`
+### Gemini `06-19 02:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -79,14 +81,13 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-R3YlvPqOgyWml6qOzmqx089UGkInuBEssefJmp2hbRIBoHY7` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-18 | Fast Gemini option for long-context general chat |
 | `sk-w3pBlHrBVr9QsTkSW8VgLVulYkjaqIR6zuSg6vTSixoWwNlz` | gemini-2.5-flash | 🆕 신규 | $20 | 20 RPM | 2026-06-18 | Fast Gemini option for long-context general chat |
 
-### Kimi `06-19 01:52`
+### Kimi `06-19 02:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
 | `sk-iBUWHq6Y3lTqjYeRWI3wD2BBCQjZbGhS1UwiFvC5ok9QyAOm` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-20 | Kimi long-context general model |
-| `sk-gCnaUUCExxHdiwqiikLml6S9ynCdcGWOXrGkKOJvOaz5KNVX` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-20 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-19 01:52`
+### Image / Audio / Embedding `06-19 02:07`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
