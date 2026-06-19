@@ -57,11 +57,11 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 
 ## 📋 利用可能なキー
 
-> ⏰ 最終更新: 2026-06-19 08:07 (UTC+8)
+> ⏰ 最終更新: 2026-06-19 08:22 (UTC+8)
 
 ### 主要モデル
 
-### Claude Opus 4.7 `06-19 08:07`
+### Claude Opus 4.7 `06-19 08:22`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -70,7 +70,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-4fNBOIwbUez0zJMdgpeb7oabnqPGqzPgcel7YiapSIVS4vVO` | claude-opus-4-7 | 🆕 新規 | $20 | 5 RPM | 2026-06-20 | Claude Opus flagship |
 | `sk-AdCm4e6bImaI32AX2Yqzw3cY2BPXl7M9HdVGWhdgyP9zLu1X` | claude-opus-4-7 | 🆕 新規 | $20 | 5 RPM | 2026-06-20 | Claude Opus flagship |
 
-### Gemini `06-19 08:07`
+### Gemini `06-19 08:22`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -81,7 +81,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-UqL8sQa5nrRVccFWfNb0S9NP9JVlJJanzWlYYhQ1yvvCDKF9` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-20 | Fast Gemini option for long-context general chat |
 | `sk-FglJR3effER7F3Is3jvtlLS7ctHkcbvXCtsoSenCOT9qYGKo` | gemini-2.5-flash | 🆕 新規 | $20 | 20 RPM | 2026-06-20 | Fast Gemini option for long-context general chat |
 
-### Kimi `06-19 08:07`
+### Kimi `06-19 08:22`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -91,7 +91,7 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-FN08AnrjEML1ic8rrmFWGbWdNVip4MWoPMV2ciUm7ax7iK65` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-20 | Kimi long-context general model |
 | `sk-n5XQV7M65AY4CeeV0ahbM37Kfyn0MNsMPBEo64S12uDKmuXN` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-20 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-19 08:07`
+### Image / Audio / Embedding `06-19 08:22`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
