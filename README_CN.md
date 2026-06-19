@@ -70,7 +70,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-06-19 11:07 (UTC+8)
+> ⏰ 最后更新： 2026-06-19 11:22 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -117,20 +117,18 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Claude Opus 4.7 `06-19 11:07`
+### Claude Opus 4.7 `06-19 11:22`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-pvlloHJzArXj59GIsQP1HVRp2Ebvav3d60N6NWkaa7DndWOh` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-21 | Claude Opus 旗舰模型 |
 | `sk-gcrB9L2jDuMl3KxCv3X1XLcx2RvLMelxojJixX4rTyQXPhtU` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-21 | Claude Opus 旗舰模型 |
 | `sk-255gY3MGIz26sfxEWXIZqgEXbqJxEf85YMsBgCbLslvuRou0` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-21 | Claude Opus 旗舰模型 |
 | `sk-m8vR7Y6WdLDtSVmFfsjCH0mpy1G4RK4oPErpFHd4vvo3hGQj` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-21 | Claude Opus 旗舰模型 |
 | `sk-lF94nlZIntDPgV7JpbJHRIxLzOxQtQnYez7GE7WV4Wswt8ZE` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-21 | Claude Opus 旗舰模型 |
-| `sk-DIvYJDgSzRbspHeusygO3qQPiWIDycFc79wt2teB4jtNtYrX` | claude-opus-4-7 | 🆕 新增 | $20 | 5 RPM | 2026-06-21 | Claude Opus 旗舰模型 |
 
 ---
 
-### Gemini `06-19 11:07`
+### Gemini `06-19 11:22`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -143,16 +141,18 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Kimi `06-19 11:07`
+### Kimi `06-19 11:22`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-FN08AnrjEML1ic8rrmFWGbWdNVip4MWoPMV2ciUm7ax7iK65` | kimi-k2.5 | 🆕 新增 | $6 | 10 RPM | 2026-06-20 | Kimi 长上下文通用模型 |
-| `sk-n5XQV7M65AY4CeeV0ahbM37Kfyn0MNsMPBEo64S12uDKmuXN` | kimi-k2.5 | 🆕 新增 | $13 | 10 RPM | 2026-06-20 | Kimi 长上下文通用模型 |
+| `sk-d30okhoiFAlbxOvpVWHb8AbSfIvpMRa6QyPxOsGe76YtyDkc` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-21 | Kimi 长上下文通用模型 |
+| `sk-i2PNvzfVeDeoWT4HsOYVLNW8gh8Jm1jLCHHwComj1vOHM3k5` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-21 | Kimi 长上下文通用模型 |
+| `sk-ojV7MNErnRrHPa8dX7I8THyAIwkxT8PwFp890H6BRDuYZ8hE` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-21 | Kimi 长上下文通用模型 |
+| `sk-FJQDHlg2mtI57C2nykoBXlcTa0DYV4wDwvdd9JJNuuQPAfBh` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-21 | Kimi 长上下文通用模型 |
 
 ---
 
-### 图像 / 语音 / 向量化 `06-19 11:07`
+### 图像 / 语音 / 向量化 `06-19 11:22`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
