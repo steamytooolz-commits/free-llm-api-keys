@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-47-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-50-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-19 16:37 (UTC+8)
+> ⏰ Last updated: 2026-06-19 16:52 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -110,7 +110,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Claude Opus 4.7 `06-19 16:37`
+### Claude Opus 4.7 `06-19 16:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -118,12 +118,11 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | `sk-95c9FCoMMPjQftabXxZgydrIkqmzHlurqqxrKy5aQDqUpCHw` | claude-opus-4-7 | 🆕 New | $20 | 5 RPM | 2026-06-21 | Claude Opus flagship |
 | `sk-ljQHiKY1NDPvRDgrAP4m18JYOl6lxy5JDTXcQhViSvsFBtXZ` | claude-opus-4-7 | 🆕 New | $20 | 5 RPM | 2026-06-21 | Claude Opus flagship |
 | `sk-aI58KaXnquEAKIsYu0AYIBOSp1NPjkBTMOUN6ovyVpawHwFJ` | claude-opus-4-7 | 🆕 New | $20 | 5 RPM | 2026-06-21 | Claude Opus flagship |
-| `sk-f4tGewONtkEWenP085EZXADpMiUNJBhvSxvXY4lLM2H60dxL` | claude-opus-4-7 | 🆕 New | $20 | 5 RPM | 2026-06-21 | Claude Opus flagship |
 | `sk-8ATJbL1vXde2maHCq5QLhPqFOVofRHDnMEKTeC3FITDH0EVc` | claude-opus-4-7 | 🆕 New | $20 | 5 RPM | 2026-06-21 | Claude Opus flagship |
 
 ---
 
-### Gemini `06-19 16:37`
+### Gemini `06-19 16:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -136,7 +135,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-19 16:37`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-19 16:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -149,15 +148,19 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-19 16:37`
+### Kimi `06-19 16:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-AqfidMUCsP4SLgNkFYcltPNN7FiqJ9QvOxIVQGQcZ05Msgsr` | kimi-k2.5 | 🆕 New | $13 | 10 RPM | 2026-06-21 | Kimi long-context general model |
+| `sk-g3v8QxCMFNdLGtfPD0j0k0aKS2YqCaBLopqZUShaCXDCItnp` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-21 | Kimi long-context general model |
+| `sk-P93tvPqiDPjFOnnKqIg7VcIbUgysRx2dDHOXwwDfTOIis0ja` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-21 | Kimi long-context general model |
+| `sk-qV4wT73VmxN7n5YmTp0nCwnjJtX8oKujOyQQBCim2u5l3995` | kimi-k2.5 | 🆕 New | $9 | 10 RPM | 2026-06-21 | Kimi long-context general model |
+| `sk-Alj2kv5W7YxTTwMMmwR4nRDYqTuMPJwGW7myX5glwbxfzHga` | kimi-k2.5 | 🆕 New | $13 | 10 RPM | 2026-06-21 | Kimi long-context general model |
+| `sk-mOuMiOqpzloCfZSI4td3IkXjaAykNCWfJZPZL5qhnZgU6ONG` | kimi-k2.5 | 🆕 New | $9 | 10 RPM | 2026-06-21 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-19 16:37`
+### Image / Audio / Embedding `06-19 16:52`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
