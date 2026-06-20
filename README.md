@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-20 13:52 (UTC+8)
+> ⏰ Last updated: 2026-06-20 14:07 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,7 +85,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
-### Gemini `06-20 13:52`
+### Gemini `06-20 14:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -98,15 +98,15 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-20 13:52`
+### Kimi `06-20 14:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-OEKo1C3MSnGTRWnQumrI2pdxazKHllvafmihElQvuGh5vSnR` | kimi-k2.5 | 🆕 New | $8 | 10 RPM | 2026-06-22 | Kimi long-context general model |
+| `sk-uWySFWtPxViQjhnr12SaEY94JTO1lEUuVLJqwM5aDroucczQ` | kimi-k2.5 | 🆕 New | $13 | 10 RPM | 2026-06-21 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-20 13:52`
+### Image / Audio / Embedding `06-20 14:07`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
