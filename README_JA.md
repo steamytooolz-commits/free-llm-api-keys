@@ -57,11 +57,11 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 
 ## 📋 利用可能なキー
 
-> ⏰ 最終更新: 2026-06-21 05:37 (UTC+8)
+> ⏰ 最終更新: 2026-06-21 05:52 (UTC+8)
 
 ### 主要モデル
 
-### DeepSeek `06-21 05:37`
+### DeepSeek `06-21 05:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
@@ -72,12 +72,13 @@ AIはすべてを変えていますが、ほとんどのAPIはクレジットカ
 | `sk-C5AyojXErIim58qScfP55cKwi7Oj5tMs7fVt8qYYjrlIF4Kr` | deepseek-chat | 🆕 新規 | $20 | 20 RPM | 2026-06-22 | Everyday chat, coding, translation, writing |
 | `sk-iL8kkEW10zhAla2oW4VSyOxFv4uCEFPnOmjGTrAASWKE8dJz` | deepseek-chat | 🆕 新規 | $20 | 20 RPM | 2026-06-22 | Everyday chat, coding, translation, writing |
 
-### Kimi `06-21 05:37`
+### Kimi `06-21 05:52`
 
 | Key | モデル | ステータス | 予算 | レート | 有効期限 | 説明 |
 |-----|--------|------------|------|--------|----------|------|
-| `sk-qwm8L58tWpPJEu0j8AMGK5SW6q38D51kX8yY8SBqoduv23RL` | kimi-k2.5 | 🆕 新規 | $17 | 10 RPM | 2026-06-22 | Kimi long-context general model |
-| `sk-46ZLrIQOHjs8sVQGaqecjv80xzhYioxrdUiqqinwIRg5lhAY` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-22 | Kimi long-context general model |
+| `sk-ZxY0G5I0B9bDEv8JZ2THkiE2q9uMK9tGWUSRAntoKpR5vudc` | kimi-k2.5 | 🆕 新規 | $11 | 10 RPM | 2026-06-22 | Kimi long-context general model |
+| `sk-x5AKQuVgtkbfSmKZO9CMnMD7MSKUzA9fbVZaMoUAD7cfEphR` | kimi-k2.5 | 🆕 新規 | $11 | 10 RPM | 2026-06-22 | Kimi long-context general model |
+| `sk-8u9zyvU9jKiFDOp15cmaqNQZLjTOSqYfmUuSlsyLBaWK0q3u` | kimi-k2.5 | 🆕 新規 | $19 | 10 RPM | 2026-06-22 | Kimi long-context general model |
 
 ## 🚀 使い方
 

@@ -70,7 +70,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-06-21 05:37 (UTC+8)
+> ⏰ 最后更新： 2026-06-21 05:52 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -84,7 +84,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 覆盖 GPT-5.5、Claude Opus 4.7、Gemini、DeepSeek、smart-chat、Kimi、图像、语音和向量模型。
 发布器只展示真实 Key；主货架只展示对应模型的直接 Key，额外有余额模型会按模型名单独列出。
 
-### DeepSeek `06-21 05:37`
+### DeepSeek `06-21 05:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -97,20 +97,13 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Kimi `06-21 05:37`
+### Kimi `06-21 05:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-qwm8L58tWpPJEu0j8AMGK5SW6q38D51kX8yY8SBqoduv23RL` | kimi-k2.5 | 🆕 新增 | $17 | 10 RPM | 2026-06-22 | Kimi 长上下文通用模型 |
-| `sk-46ZLrIQOHjs8sVQGaqecjv80xzhYioxrdUiqqinwIRg5lhAY` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-22 | Kimi 长上下文通用模型 |
-
-### openrouter/owl-alpha `06-21 04:30`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-llww7LId8dPWVvbEgtfsficb06qviTi8ZsG65aOHnL4ZrCni` | openrouter/owl-alpha | 🆕 新增 | $20 | 10 RPM | 2026-06-21 | 来自有余额渠道的额外可用模型 |
-
----
+| `sk-ZxY0G5I0B9bDEv8JZ2THkiE2q9uMK9tGWUSRAntoKpR5vudc` | kimi-k2.5 | 🆕 新增 | $11 | 10 RPM | 2026-06-22 | Kimi 长上下文通用模型 |
+| `sk-x5AKQuVgtkbfSmKZO9CMnMD7MSKUzA9fbVZaMoUAD7cfEphR` | kimi-k2.5 | 🆕 新增 | $11 | 10 RPM | 2026-06-22 | Kimi 长上下文通用模型 |
+| `sk-8u9zyvU9jKiFDOp15cmaqNQZLjTOSqYfmUuSlsyLBaWK0q3u` | kimi-k2.5 | 🆕 新增 | $19 | 10 RPM | 2026-06-22 | Kimi 长上下文通用模型 |
 
 ### mistralai/mistral-medium-3-5 `06-21 02:30`
 

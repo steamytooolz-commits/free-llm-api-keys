@@ -57,11 +57,11 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 
 ## 📋 사용 가능한 키
 
-> ⏰ 마지막 업데이트: 2026-06-21 05:37 (UTC+8)
+> ⏰ 마지막 업데이트: 2026-06-21 05:52 (UTC+8)
 
 ### 주요 모델
 
-### DeepSeek `06-21 05:37`
+### DeepSeek `06-21 05:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
@@ -72,12 +72,13 @@ AI가 모든 것을 바꾸고 있지만, 대부분의 API는 신용카드와 유
 | `sk-C5AyojXErIim58qScfP55cKwi7Oj5tMs7fVt8qYYjrlIF4Kr` | deepseek-chat | 🆕 신규 | $20 | 20 RPM | 2026-06-22 | Everyday chat, coding, translation, writing |
 | `sk-iL8kkEW10zhAla2oW4VSyOxFv4uCEFPnOmjGTrAASWKE8dJz` | deepseek-chat | 🆕 신규 | $20 | 20 RPM | 2026-06-22 | Everyday chat, coding, translation, writing |
 
-### Kimi `06-21 05:37`
+### Kimi `06-21 05:52`
 
 | Key | 모델 | 상태 | 예산 | 속도 | 만료 | 설명 |
 |-----|------|------|------|------|------|------|
-| `sk-qwm8L58tWpPJEu0j8AMGK5SW6q38D51kX8yY8SBqoduv23RL` | kimi-k2.5 | 🆕 신규 | $17 | 10 RPM | 2026-06-22 | Kimi long-context general model |
-| `sk-46ZLrIQOHjs8sVQGaqecjv80xzhYioxrdUiqqinwIRg5lhAY` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-22 | Kimi long-context general model |
+| `sk-ZxY0G5I0B9bDEv8JZ2THkiE2q9uMK9tGWUSRAntoKpR5vudc` | kimi-k2.5 | 🆕 신규 | $11 | 10 RPM | 2026-06-22 | Kimi long-context general model |
+| `sk-x5AKQuVgtkbfSmKZO9CMnMD7MSKUzA9fbVZaMoUAD7cfEphR` | kimi-k2.5 | 🆕 신규 | $11 | 10 RPM | 2026-06-22 | Kimi long-context general model |
+| `sk-8u9zyvU9jKiFDOp15cmaqNQZLjTOSqYfmUuSlsyLBaWK0q3u` | kimi-k2.5 | 🆕 신규 | $19 | 10 RPM | 2026-06-22 | Kimi long-context general model |
 
 ## 🚀 사용 방법
 
