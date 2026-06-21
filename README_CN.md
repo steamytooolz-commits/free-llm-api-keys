@@ -329,16 +329,18 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 🚀 如何使用
 
-所有 Key 兼容 **OpenAI API 格式**，设置 Base URL 并粘贴 Key 即可。
+所有 Key 兼容 **OpenAI API 格式**，设置 Base URL，并通过环境变量传入 Key。
 
 **Base URL：** `https://aiapiv2.pekpik.com/v1`
 
 ### cURL
 
 ```bash
+export OPENAI_API_KEY="粘贴你的Key"
+
 curl https://aiapiv2.pekpik.com/v1/chat/completions \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer 粘贴Key" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
   -d '{
     "model": "gpt-5.5",
     "messages": [{"role": "user", "content": "你好！"}]
@@ -349,10 +351,11 @@ curl https://aiapiv2.pekpik.com/v1/chat/completions \
 
 ```python
 from openai import OpenAI
+import os
 
 client = OpenAI(
     base_url="https://aiapiv2.pekpik.com/v1",
-    api_key="粘贴Key"
+    api_key=os.environ["OPENAI_API_KEY"]
 )
 
 response = client.chat.completions.create(
@@ -369,7 +372,7 @@ import OpenAI from 'openai';
 
 const client = new OpenAI({
   baseURL: 'https://aiapiv2.pekpik.com/v1',
-  apiKey: '粘贴Key',
+  apiKey: process.env.OPENAI_API_KEY,
 });
 
 const response = await client.chat.completions.create({

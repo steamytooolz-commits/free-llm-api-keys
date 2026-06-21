@@ -151,7 +151,7 @@
     <h2>Verify a key first</h2>
     <p>Test any key in seconds before adding it to ChatBox:</p>
     <pre><code>curl https://aiapiv2.pekpik.com/v1/chat/completions \
-  -H "Authorization: Bearer YOUR_FREE_KEY" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{"model":"claude-opus-4-7","messages":[{"role":"user","content":"hi"}]}'</code></pre>
     <p>Or use the <a href="../">playground</a> Verify tab to check a key in your browser.</p>

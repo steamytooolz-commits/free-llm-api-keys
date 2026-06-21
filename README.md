@@ -330,16 +330,18 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ## 🚀 How to Use
 
-All keys work with the **OpenAI API format**. Just set the base URL and paste your key.
+All keys work with the **OpenAI API format**. Set the base URL and pass your key through an environment variable.
 
 **Base URL:** `https://aiapiv2.pekpik.com/v1`
 
 ### cURL
 
 ```bash
+export OPENAI_API_KEY="paste-your-key-here"
+
 curl https://aiapiv2.pekpik.com/v1/chat/completions \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer PASTE_KEY_HERE" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
   -d '{
     "model": "gpt-5.5",
     "messages": [{"role": "user", "content": "Hello!"}]
@@ -350,10 +352,11 @@ curl https://aiapiv2.pekpik.com/v1/chat/completions \
 
 ```python
 from openai import OpenAI
+import os
 
 client = OpenAI(
     base_url="https://aiapiv2.pekpik.com/v1",
-    api_key="PASTE_KEY_HERE"
+    api_key=os.environ["OPENAI_API_KEY"]
 )
 
 response = client.chat.completions.create(
@@ -370,7 +373,7 @@ import OpenAI from 'openai';
 
 const client = new OpenAI({
   baseURL: 'https://aiapiv2.pekpik.com/v1',
-  apiKey: 'PASTE_KEY_HERE',
+  apiKey: process.env.OPENAI_API_KEY,
 });
 
 const response = await client.chat.completions.create({
@@ -3193,5 +3196,4 @@ If this repo helped you, you may also like:
 ## 📜 License
 
 [MIT License](./LICENSE)
-
 

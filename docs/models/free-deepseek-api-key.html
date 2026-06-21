@@ -156,7 +156,7 @@
 
     <h3>cURL — DeepSeek V3 (chat)</h3>
     <pre><code>curl https://aiapiv2.pekpik.com/v1/chat/completions \
-  -H "Authorization: Bearer YOUR_FREE_KEY" \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
   -H "Content-Type: application/json" \
   -d '{
     "model": "deepseek-chat",
@@ -165,9 +165,10 @@
 
     <h3>Python — DeepSeek R1 (reasoner)</h3>
     <pre><code>from openai import OpenAI
+import os
 
 client = OpenAI(
-    api_key="YOUR_FREE_KEY",
+    api_key=os.environ["OPENAI_API_KEY"],
     base_url="https://aiapiv2.pekpik.com/v1",
 )
 
