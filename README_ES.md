@@ -17,7 +17,7 @@ Copia una clave de la tabla, pégala en tu app y empieza a construir
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Claves_Disponibles-52-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Claves_Disponibles-46-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Modelos-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Sigue_en_X-nuevas_claves-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -43,22 +43,11 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 
 ## 📋 Claves Disponibles
 
-> ⏰ Última actualización: 2026-06-27 06:30 (UTC+8)
+> ⏰ Última actualización: 2026-06-27 06:37 (UTC+8)
 
 ### Modelos destacados
 
-### Claude Opus 4.7 `06-27 06:30`
-
-| Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
-|-----|--------|--------|-------------|------|--------|-------------|
-| `sk-adUi6wE32xv8DF7we0bvchEQMuvjZXtenvNU3qLNAVbDiz6B` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-06-26 | Claude Opus flagship |
-| `sk-OYtSJVadaCShac60VCUX5efB3lbIJRzJE7Ntj4iJtgaceonZ` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-06-26 | Claude Opus flagship |
-| `sk-F2YBKPn1IvkIReUz7erJ5xn6qvNSo7UH6vKspxlCBsomETLY` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-06-26 | Claude Opus flagship |
-| `sk-JtZEhLZ1OpPGboaxEFo3u1hMpX45qzJeZTv62JZY4jF0DBJh` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-06-26 | Claude Opus flagship |
-| `sk-XET7KOdHWr33jdbCnshpFas0zgeJ8sbUvzaGrAJDHJ70C09k` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-06-26 | Claude Opus flagship |
-| `sk-74dyFBPNSILSC3ygilea9qVvlt0vPKPvwiEuXB5iDitsRDug` | claude-opus-4-7 | 🆕 Nueva | $20 | 5 RPM | 2026-06-26 | Claude Opus flagship |
-
-### Gemini `06-27 06:30`
+### Gemini `06-27 06:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -69,7 +58,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-DvFEC7yMEAuAv8gVhX7fupg5IBrXz9gxMCyxdBUN2mdeYy2C` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-06-27 | Fast Gemini option for long-context general chat |
 | `sk-hk0CxzsBYKaq3qncyl12UbmwawMLxjPVz334qMwi7PNxoTea` | gemini-2.5-flash | 🆕 Nueva | $20 | 20 RPM | 2026-06-27 | Fast Gemini option for long-context general chat |
 
-### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini ruteo automático) `06-27 06:30`
+### Multi-Modelo (GPT-5.5 / Claude / DeepSeek / Gemini ruteo automático) `06-27 06:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -80,7 +69,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-5IH3KBeSS8kxEE4dqci0GMrT3lNZBLEj4UGdcLvx1gKTvGPS` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-06-28 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-qBfLW4iYduCWJwZMBeJ92bM5xIjqLtyk8LES2ocbqfxO4Oea` | smart-chat | 🆕 Nueva | $20 | 10 RPM | 2026-06-28 | Auto-routes across currently healthy low-cost chat backends |
 
-### Kimi `06-27 06:30`
+### Kimi `06-27 06:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
@@ -91,7 +80,7 @@ Uso APIs de LLM intensivamente en mi trabajo. Tengo capacidad sobrante que de ot
 | `sk-vUmPEhbsQjn8MdhAUbpu4OH7E5wmey0dJgWb4j4d0iUzXp3G` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-06-28 | Kimi long-context general model |
 | `sk-iGsChN5qohTSAEuStMGlQd7VVBQJ0g6DgcBsCnlk3CMqDiwF` | kimi-k2.5 | 🆕 Nueva | $20 | 10 RPM | 2026-06-28 | Kimi long-context general model |
 
-### Image / Audio / Embedding `06-27 06:30`
+### Image / Audio / Embedding `06-27 06:37`
 
 | Key | Modelo | Estado | Presupuesto | Tasa | Expira | Descripción |
 |-----|--------|--------|-------------|------|--------|-------------|
