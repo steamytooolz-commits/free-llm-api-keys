@@ -17,7 +17,7 @@
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/可用_Key-42-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/可用_Key-36-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/支持模型-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/在_X_关注-获取新key-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -70,7 +70,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ## 📋 可用 Key 列表
 
-> ⏰ 最后更新： 2026-06-27 17:07 (UTC+8)
+> ⏰ 最后更新： 2026-06-27 18:52 (UTC+8)
 >
 > 所有 Key 均为本平台签发的 API token，兼容 **OpenAI SDK**，可搭配任何支持自定义 OpenAI 端点的工具使用。
 > 新 Key 由服务器定时任务每天多次发布，失效 Key 全天自动清理。每个 Key 预算 $20-$100，有效期 24-48 小时。
@@ -84,10 +84,6 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 覆盖 GPT-5.5、Claude Opus 4.7、Gemini、DeepSeek、smart-chat、Kimi、图像、语音和向量模型。
 发布器只展示真实 Key；主货架只展示对应模型的直接 Key，额外有余额模型会按模型名单独列出。
 
-
-<!-- daily-grant-keylist:start -->
-> 🎁 想要指定模型的私有 24 小时访问权限？关注 X 上的每日 grant：[@getkeyway](https://x.com/getkeyway)。最新活动帖：[2026-06-17 · x-ai/grok-4.3](https://x.com/getkeyway/status/2067104940791849176)。Star 是可选支持，不是参与或中奖条件。
-<!-- daily-grant-keylist:end -->
 
 ### ibm-granite/granite-4.1-8b `06-27 06:30`
 
@@ -193,23 +189,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### google/gemini-3.1-flash-lite `06-26 18:30`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-Ugysy5RjQuqmmBJOXin93hk3AAUdxJ08sqwN7Ku1ZEbkgZ3v` | google/gemini-3.1-flash-lite | 🆕 新增 | $20 | 10 RPM | 2026-06-27 | 来自有余额渠道的额外可用模型 |
-
----
-
-### openai/gpt-chat-latest `06-26 18:30`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-BjNvusLBXWa3XjfPkLbrzOCq0xagQsNOmicg3zdY36zzLNw6` | openai/gpt-chat-latest | 🆕 新增 | $20 | 10 RPM | 2026-06-27 | 来自有余额渠道的额外可用模型 |
-
----
-
-### Claude Opus 4.7 `06-27 17:07`
+### Claude Opus 4.7 `06-27 18:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -222,7 +202,7 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Gemini `06-27 17:07`
+### Gemini `06-27 18:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
@@ -235,33 +215,21 @@ AI 正在改变一切，但大多数 API 都锁在信用卡和付费墙后面。
 
 ---
 
-### Kimi `06-27 17:07`
+### Kimi `06-27 18:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
-| `sk-WDCv8D5eT1SAaEEMjb0tOJrzfbtPF8CKS0mzvZDfAuxyDklD` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-29 | Kimi 长上下文通用模型 |
-| `sk-CgK8e98JeiRlemBOETEC139esjnXoi4VU3oC5WfSwwDeR9Bi` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-29 | Kimi 长上下文通用模型 |
-| `sk-Nq2XruGRdlu5O6z9CxcjFb3UXXpaNKTlJcr31RsO69TyUjeT` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-29 | Kimi 长上下文通用模型 |
 | `sk-MGcCD2kfz86UnKI6eyvWH99mI66D99Fc0C7esrk4t4IuQQ9h` | kimi-k2.5 | 🆕 新增 | $20 | 10 RPM | 2026-06-29 | Kimi 长上下文通用模型 |
 
 ---
 
-### 图像 / 语音 / 向量化 `06-27 17:07`
+### 图像 / 语音 / 向量化 `06-27 18:52`
 
 | Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
 |-----|------|------|------|---------|---------|------|
 | `sk-bOdnyudEPZ3ydXVpmaVskc0KUuCje4M2ZbAWOUUgkN7Ub7dX` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-29 | 文本向量化 |
 | `sk-yZocmkhRwQsTl0ta0Wo9GArajKimh4mTom7VSsZO4zDlUf2Y` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-29 | 文本向量化 |
 | `sk-DamWrireVEyGGBS0Z1pVxgfj0p97FC4yUwRYwtW5A3wcjR3j` | text-embedding-3-small | 🆕 新增 | $20 | 20 RPM | 2026-06-29 | 文本向量化 |
-
-### deepseek-v4-flash `06-27 14:30`
-
-| Key | 模型 | 状态 | 预算 | 速率限制 | 过期时间 | 说明 |
-|-----|------|------|------|---------|---------|------|
-| `sk-wzDim5ll6BimI5y3Y7twzXuSR0DUz5VdkOeDm1EZ1cD5Z7Rh` | deepseek-v4-flash | 🆕 新增 | $20 | 10 RPM | 2026-06-28 | 来自有余额渠道的额外可用模型 |
-
----
-
 
 ### mistralai/mistral-medium-3-5 `06-27 14:30`
 
