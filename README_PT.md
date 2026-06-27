@@ -43,7 +43,7 @@ Eu uso APIs de LLM intensivamente no meu trabalho. Tenho capacidade ociosa que s
 
 ## 📋 Chaves Disponíveis
 
-> ⏰ Última atualização: 2026-06-27 14:07 (UTC+8)
+> ⏰ Última atualização: 2026-06-27 14:22 (UTC+8)
 
 ### Modelos em destaque
 
