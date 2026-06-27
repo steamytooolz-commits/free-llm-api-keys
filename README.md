@@ -18,7 +18,7 @@ Copy a key from the table below, paste it into your app, and start building.
 
 [![Stars](https://img.shields.io/github/stars/alistaitsacle/free-llm-api-keys?style=for-the-badge&logo=github)](https://github.com/alistaitsacle/free-llm-api-keys/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/alistaitsacle/free-llm-api-keys?style=for-the-badge)](https://github.com/alistaitsacle/free-llm-api-keys/commits)
-[![Keys](https://img.shields.io/badge/Available_Keys-45-brightgreen?style=for-the-badge)]()
+[![Keys](https://img.shields.io/badge/Available_Keys-43-brightgreen?style=for-the-badge)]()
 [![Models](https://img.shields.io/badge/Models-90+-blue?style=for-the-badge)]()
 [![Follow on X](https://img.shields.io/badge/Follow_on_X-for_key_drops-000000?style=for-the-badge&logo=x)](https://x.com/getkeyway)
 
@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-27 15:22 (UTC+8)
+> ⏰ Last updated: 2026-06-27 15:37 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -85,6 +85,10 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 GPT-5.5, Claude Opus 4.7, Gemini, DeepSeek, smart-chat, Kimi, image, audio, and embeddings.
 The publisher only shows real keys. Main shelves only show direct keys for that model; extra positive-balance models are listed as their own model shelves.
 
+
+<!-- daily-grant-keylist:start -->
+> 🎁 Want private 24h access to selected models? Join the daily grant on X: [@getkeyway](https://x.com/getkeyway). Latest post: [2026-06-17 · x-ai/grok-4.3](https://x.com/getkeyway/status/2067104940791849176). Stars are optional and never required to win.
+<!-- daily-grant-keylist:end -->
 
 ### ibm-granite/granite-4.1-8b `06-27 06:30`
 
@@ -206,7 +210,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Claude Opus 4.7 `06-27 15:22`
+### Claude Opus 4.7 `06-27 15:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -219,7 +223,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-27 15:22`
+### Gemini `06-27 15:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -232,12 +236,11 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-27 15:22`
+### Kimi `06-27 15:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-m2mfaeut6irw1fDVjp2XvplC9x7FqUjvvympEX8z06unvjj6` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-29 | Kimi long-context general model |
-| `sk-y2mBm0y0AOFY8S2N72LQZsA81rcHxXUP6mwTWrbjHguvoO7f` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-29 | Kimi long-context general model |
 | `sk-WDCv8D5eT1SAaEEMjb0tOJrzfbtPF8CKS0mzvZDfAuxyDklD` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-29 | Kimi long-context general model |
 | `sk-CgK8e98JeiRlemBOETEC139esjnXoi4VU3oC5WfSwwDeR9Bi` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-29 | Kimi long-context general model |
 | `sk-Nq2XruGRdlu5O6z9CxcjFb3UXXpaNKTlJcr31RsO69TyUjeT` | kimi-k2.5 | 🆕 New | $20 | 10 RPM | 2026-06-29 | Kimi long-context general model |
@@ -245,7 +248,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Image / Audio / Embedding `06-27 15:22`
+### Image / Audio / Embedding `06-27 15:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -276,15 +279,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-SfDUj5T58M936tBtBlszHpcAFj1KUqgvqGOF2XZATgkpqc3C` | nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free | 🆕 New | $20 | 10 RPM | 2026-06-28 | Live positive-balance channel |
-
----
-
-
-### openrouter/owl-alpha `06-27 14:30`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-nojOUAUGRgg2AkgQYfFJszJd2sIYi1S4ZQVSD6FzA3x6GosA` | openrouter/owl-alpha | 🆕 New | $20 | 10 RPM | 2026-06-28 | Live positive-balance channel |
 
 ---
 
