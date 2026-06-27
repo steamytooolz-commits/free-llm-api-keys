@@ -71,7 +71,7 @@ For production-grade LLM keys, contact **alistaitscale@gmail.com**.
 
 ## 📋 Available Keys
 
-> ⏰ Last updated: 2026-06-28 01:22 (UTC+8)
+> ⏰ Last updated: 2026-06-28 01:37 (UTC+8)
 >
 > All keys are API tokens compatible with **OpenAI SDK** — use them with any tool that supports custom OpenAI endpoints.
 > New keys are published multiple times per day by the server cron. Expired keys are cleaned throughout the day. Each key has a budget ($20-$100) and expires in 24-48 hours.
@@ -94,7 +94,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Claude Opus 4.7 `06-28 01:22`
+### Claude Opus 4.7 `06-28 01:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -107,7 +107,7 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Gemini `06-28 01:22`
+### Gemini `06-28 01:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -120,11 +120,10 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-28 01:22`
+### Multi-Model (GPT-5.5 / Claude / DeepSeek / Gemini auto-rotate) `06-28 01:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-uLEgnmphwJL06ufA5Jseo1hY9a6m43RitKVSKJ8m5YPAO2Kh` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-29 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-8npPj1cynyucoRcc2zIzhp8Cu8Pfjm52e5lkDuwmhqo8X39X` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-29 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-Y4zOpORd7R6vHQgfhXDG2t7prFEIoYSVp5mMQhozrA2hW5aD` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-29 | Auto-routes across currently healthy low-cost chat backends |
 | `sk-YqRLT2B9TaVjzhsaY95G4jTfRHh6GXmfLTyPLrLZWG0tPqyz` | smart-chat | 🆕 New | $20 | 10 RPM | 2026-06-29 | Auto-routes across currently healthy low-cost chat backends |
@@ -132,15 +131,17 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 
 ---
 
-### Kimi `06-28 01:22`
+### Kimi `06-28 01:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
-| `sk-kmkVBN88tCv5XS5a2FDNB8khSFGsa6qZwWwMmiVpsNV4Hc17` | kimi-k2.5 | 🆕 New | $9 | 10 RPM | 2026-06-29 | Kimi long-context general model |
+| `sk-V8vctdbkMmC5vxDEFUrskxuPY1aXOJBTEHtsT5GTTnuzEDRA` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-29 | Kimi long-context general model |
+| `sk-pNcdRrWgSQg87QKt0GDu9jnB87lyKjmd2oTTQjjnrdsVaOq4` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-29 | Kimi long-context general model |
+| `sk-xg64fqt2Sv6VxmPGpJStnVl30WYxNi1jjB4IJGBJAnzck9jx` | kimi-k2.5 | 🆕 New | $19 | 10 RPM | 2026-06-29 | Kimi long-context general model |
 
 ---
 
-### Image / Audio / Embedding `06-28 01:22`
+### Image / Audio / Embedding `06-28 01:37`
 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
@@ -177,14 +178,6 @@ The publisher only shows real keys. Main shelves only show direct keys for that 
 | Key | Model | Status | Budget | Rate Limit | Expires | Description |
 |-----|-------|--------|--------|------------|---------|-------------|
 | `sk-itlIYZX7uZOhNEOLpzsvzrNYzEOrPmeWO2tpuq6Ak6VQCJDq` | openai/gpt-chat-latest | 🆕 New | $20 | 10 RPM | 2026-06-28 | Live positive-balance channel |
-
----
-
-### openrouter/owl-alpha `06-27 22:31`
-
-| Key | Model | Status | Budget | Rate Limit | Expires | Description |
-|-----|-------|--------|--------|------------|---------|-------------|
-| `sk-1hzhsalqvbuLykAgyR8BTyE5K4wqZ9sRuhngj8LeXc3iHVYf` | openrouter/owl-alpha | 🆕 New | $20 | 10 RPM | 2026-06-28 | Live positive-balance channel |
 
 ---
 
@@ -447,6 +440,7 @@ If this repo helped you, you may also like:
 <summary><b>Show changelog history</b></summary>
 
 ### 2026-06-28
+- 🆕 Added 3 keys (kimi-k2.5), cleaned 4 expired
 - 🆕 Added 1 keys (kimi-k2.5), cleaned 3 expired
 - 🆕 Added 3 keys (kimi-k2.5), cleaned 3 expired
 - 🆕 Added 3 keys (kimi-k2.5), cleaned 11 expired
